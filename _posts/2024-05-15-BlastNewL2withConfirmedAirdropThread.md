@@ -11,7 +11,7 @@ link: "https://medium.com/@giludawe/blast-new-l2-with-confirmed-airdrop-thread-8
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-15-BlastNewL2withConfirmedAirdropThread_0.png)
 
 # Blast Airdrop 소개
@@ -21,7 +21,7 @@ link: "https://medium.com/@giludawe/blast-new-l2-with-confirmed-airdrop-thread-8
 본 이벤트는 초기 지지자들에게만 보상하는 것이 아니라 Blast 플랫폼의 서비스를 보다 폭넓게 채택시키기 위해 설계되었습니다.
 
 # Blast Airdrop은 무엇인가요?
-```
+
 
 
 

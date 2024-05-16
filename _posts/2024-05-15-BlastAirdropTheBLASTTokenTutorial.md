@@ -11,7 +11,7 @@ link: "https://medium.com/@galivesu/blast-airdrop-the-blast-token-tutorial-6f5fd
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-15-BlastAirdropTheBLASTTokenTutorial_0.png)
 
 # Blast Airdrop 소개
@@ -19,7 +19,7 @@ link: "https://medium.com/@galivesu/blast-airdrop-the-blast-token-tutorial-6f5fd
 암호화폐의 끊임없이 진화하는 세계에서 혁신적인 프로젝트들은 종종 에어드랍을 활용하여 커뮤니티를 구축하고 토큰 유통을 증가시키며 잠재적 사용자들과 소통하는 전략으로 사용됩니다. Blast Airdrop은 $BLAST 토큰의 배포를 통해 블록체인 네트워크의 성장에 직접 참여할 기회를 커뮤니티에 제공하여 돋보입니다. 이 이벤트는 초기 지원자들을 보상하는 데 그치지 않고 Blast 플랫폼의 서비스의 더 넓은 채택을 촉진하는 데도 목적을 두고 있습니다.
 
 # Blast Airdrop은 무엇인가요?
-```
+
 
 
 

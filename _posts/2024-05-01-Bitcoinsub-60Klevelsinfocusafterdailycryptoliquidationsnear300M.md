@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/bitcoin-sub-60k-after-daily-crypto-liquida
 ---
 
 
-```markdown
+
 ![Bitcoin thumbnail](/assets/img/2024-05-01-Bitcoinsub-60Klevelsinfocusafterdailycryptoliquidationsnear300M_thumbnail.png)
 
 ## 비트코인이 곰들의 힘을 받아 상스하고 있습니다. BTC 가격이 신속히 60,000달러로 회복 중입니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/bitcoin-sub-60k-after-daily-crypto-liquida
 Bitcoin BTC $57,434은 4월 30일 월스트리트 개장 직후 새로운 현금가치 거래 펀드(ETF)의 실망으로 두 주 만에 최저점을 기록했습니다.
 
 ![Bitcoin 0](/assets/img/2024-05-01-Bitcoinsub-60Klevelsinfocusafterdailycryptoliquidationsnear300M_0.png)
-```
+
 
 
 

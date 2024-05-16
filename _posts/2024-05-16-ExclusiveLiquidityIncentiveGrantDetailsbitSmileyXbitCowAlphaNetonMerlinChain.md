@@ -11,7 +11,7 @@ link: "https://medium.com/@bitsmiley/exclusive-liquidity-incentive-grant-details
 ---
 
 
-```markdown
+
 ![Exclusive Liquidity Incentive Grant Details](/assets/img/2024-05-16-ExclusiveLiquidityIncentiveGrantDetailsbitSmileyXbitCowAlphaNetonMerlinChain_0.png)
 
 Dear bitSmilers,
@@ -22,7 +22,7 @@ bitSmiley will allocate up to 3,150,000 $BIT tokens as rewards to Merlin communi
 
 - Liquidity Grant Period: May 15, 2024 — Aug 15, 2024
 - bitUSD Address: 0xC2EB7Ea813e10a46a01628df848299Fb3312B0cE
-```  
+  
 
 
 

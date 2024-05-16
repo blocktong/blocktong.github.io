@@ -41,7 +41,7 @@ Investor sentiment on May 14 was influenced by the U.S. Producer Price Index (PP
 
 
 
-```
+
 ![Bitcoin price analysis](/assets/img/2024-05-15-Bitcoinpricelosessteambutfuturesmarketsforecastupsideabove70K_1.png)
 
 최근의 악화된 경제 상황과 비트코인이 지난 주 63,500달러를 유지하지 못한 반복 실패도 비트코인 연간화 선물 프리미엄에는 큰 영향을 미치지 않은 것으로 데이터가 나타났습니다. 현재 8%의 프리미엄은 중립 시장의 중간에 위치하고 있어, 부정적인 놀라움을 대비할만한 여유 마진을 남겨두고 있습니다.
@@ -49,7 +49,7 @@ Investor sentiment on May 14 was influenced by the U.S. Producer Price Index (PP
 관련: 비트코인 해시율 하락으로 마이너가 하브닝 후 불수익한 ASIC 장비를 비활성화함
 
 가장 최근의 가격 조정 이후에 헤지 수요가 증가했는지 확인하기 위해 비트코인 옵션 시장을 조사해야 합니다. 일반적으로 시장 메이커와 고래가 비트코인 가격 하락을 예상할 경우, BTC 옵션 스키우 메트릭은 7%를 초과할 것이며, 그 반대로 강령의 시기는 스키우가 -7% 이하일 때 흔히 나타납니다.
-```
+
 
 
 

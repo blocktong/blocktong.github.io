@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/gamestop-crypto-memecoin-rally-can-history
 ---
 
 
-```markdown
+
 ![2024-05-15-GameStopsparkedthe2021memecoinbullrunWillhistoryrepeatitself_thumbnail.png](/assets/img/2024-05-15-GameStopsparkedthe2021memecoinbullrunWillhistoryrepeatitself_thumbnail.png)
 
 ## "'로어링 키티'로 알려진 키스 길이 돌아온 이후, 트레이더들은 다음 큰 주식 또는 암호화폐 랠리를 주시 중이지만, 분석가들은 이에 대해 확신하지 않습니다."
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/gamestop-crypto-memecoin-rally-can-history
 키스 길 — 2021 게임스탑 숏 스퀴즈를 시작시킨 주요 인물로 광범위하게 알려진 이의 突然而又意外한 복귀로 스펙 숄레이터들이 하나의 질문을 던지고 있습니다: 우리는 게임스탑 2.0을 맞이할 것인가요?
 
 많은 사람들이 희망적이지만, 최소한 한 명의 분석가는 의구심을 표명하고 있습니다.
-```
+
 
 
 

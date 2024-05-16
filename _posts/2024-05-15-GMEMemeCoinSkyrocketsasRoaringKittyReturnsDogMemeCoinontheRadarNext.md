@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/gme-meme-coin-skyrockets-as-roaring-kitty-ret
 ---
 
 
-```markdown
+
 ![Thumbnail](/assets/img/2024-05-15-GMEMemeCoinSkyrocketsasRoaringKittyReturnsDogMemeCoinontheRadarNext_thumbnail.png)
 
 # GME Meme Coin Skyrockets as ‘Roaring Kitty’ Returns, Dog Meme Coin on the Radar Next
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/gme-meme-coin-skyrockets-as-roaring-kitty-ret
 Ethereum 기반의 미미 코인들이 다시 상승세를 보이고 있습니다. 게임스탑 열풍을 일으킨 거래자로 유명한 '로어링 키티'의 귀환으로 에너지를 얻은 것이죠.
 
 현재 GME와 같은 ETH 기반 코인이 급등 중이며, 분석가들은 또 다른 토큰이 다음 주요 이슈가 될 것으로 예측하고 있습니다.
-```
+
 
 
 

@@ -11,20 +11,20 @@ link: "https://cointelegraph.com/news/new-daily-runes-etched-bitcoin-falls-99-fr
 ---
 
 
-```markdown
+
 ![thumbnail](/assets/img/2024-05-15-NewdailyRunesetchedonBitcoinfalls99frompost-halvingpeak_thumbnail.png)
-```
+
 
 5월 13일, 비트코인에는 매우 적은 157개의 새로운 룬이 새겨졌습니다. 이는 비트코인 채굴자들에게 지급된 거래 수수료가 단 3,835달러밖에 되지 않았습니다.
 
 지난 6일 동안 비트코인에 새로 새겨진 룬의 수가 250개 미만으로 낮아졌으며, 월요일에는 새로 새겨진 157개의 룬이 도장을 찍었는데, 이는 4월 말의 정점에서 99% 하락한 수치입니다.
 
 이 하락은 로그인 한 지 한 주 뒤에 나온 매우 성공적인 시간대 이후에 일어났는데, 4월 26일부터 30일까지 하루 평균 14,700개의 새로운 룬이 새겨졌으며, RUNES.IS가 제작한 Dune Analytics 대시보드에 따르면 4월 26일에는 23,061개의 룬이 새겨졌습니다.
-```
 
 
 
-```markdown
+
+
 ![Runes etched on Bitcoin falls 99% from post-halving peak](/assets/img/2024-05-15-NewdailyRunesetchedonBitcoinfalls99frompost-halvingpeak_0.png)
 
 Runes는 4차 비트코인 하프닝 블록에서 출시된 새로운 토큰 표준입니다. 이 프로토콜은 메이코인 및 토큰 애호가들이 자신들이 좋아하는 작품, 이미지, 오디오 및 비디오를 비트코인 네트워크에 새겨 넣을 수 있게 합니다.
@@ -32,7 +32,7 @@ Runes는 4차 비트코인 하프닝 블록에서 출시된 새로운 토큰 표
 최근의 하프닝 이후 블록 보상이 3.125 비트코인 (BTC)으로 반으로 줄어든 가운데, 이는 현재 가격 기준으로 196,800 달러에 해당합니다. 이는 비트코인 채굴자들이 최근의 하프닝의 영향을 완화하기 위해 필요한 수익을 제공해 주었습니다.
 
 그러나 5월 13일에 새겨진 157개의 Runes는 비트코인 채굴자들에게 3,835 달러의 거래 수수료만 기여했는데, 이는 4월 말에 비트코인 채굴자들이 매일 수십만 달러를 받던 것과는 비교할 수 없이 적은 금액입니다.
-```
+
 
 
 

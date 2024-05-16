@@ -11,13 +11,13 @@ link: "https://cointelegraph.com/news/crypto-trader-46m-3k-pepe-price-soars"
 ---
 
 
-```markdown
+
 ![Cryptotrader](/assets/img/2024-05-16-Cryptotraderturns3Kinto46MinonemonthasPEPEpricesoars_thumbnail.png)
 
 ## 한 명의 알 수 없는 트레이더가 Pepe memecoin을 거래함으로써 4600만 달러 이상의 이익을 창출했습니다. 게임스탑 사건이 memecoin 계절을 되찾을 수 있을까요?
 
 ## 트레이더가 PEPE에서 15,000배 이상의 이익을 창출했다
-```
+
 
 
 

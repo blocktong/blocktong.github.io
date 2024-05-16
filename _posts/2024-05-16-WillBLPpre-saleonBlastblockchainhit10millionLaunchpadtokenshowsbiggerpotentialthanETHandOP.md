@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/will-blp-pre-sale-on-blast-blockchain-hit-10-
 ---
 
 
-```
+
 ![Will $BLP pre-sale on Blast blockchain hit $10 million? Launchpad token shows bigger potential than $ETH and $OP](/assets/img/2024-05-16-WillBLPpre-saleonBlastblockchainhit10millionLaunchpadtokenshowsbiggerpotentialthanETHandOP_thumbnail.png)
 
 Will $BLP pre-sale on Blast blockchain hit $10 million? Launchpad token shows bigger potential than $ETH and $OP
@@ -19,7 +19,7 @@ Will $BLP pre-sale on Blast blockchain hit $10 million? Launchpad token shows bi
 Even a 20% slump in the price of Bitcoin cannot derail the train that is the pre-sale of BlastUP, the first launchpad on the billion-dollar rollup Blast. As the pre-sale is about to hit $6 million, and users have only 18 days left to buy $BLP.
 
 ### ETH could surge 30%, but rollup ecosystem tokens are a better opportunity – look at $BLP
-```
+
 
 
 

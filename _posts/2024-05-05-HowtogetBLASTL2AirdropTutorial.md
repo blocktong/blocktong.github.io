@@ -11,7 +11,7 @@ link: "https://medium.com/@371rosabelle/how-to-get-blast-l2-airdrop-tutorial-290
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-05-HowtogetBLASTL2AirdropTutorial_0.png)
 
 # BLAST 에어드랍이란?
@@ -19,7 +19,7 @@ link: "https://medium.com/@371rosabelle/how-to-get-blast-l2-airdrop-tutorial-290
 블러 플랫폼 창립자 "팩맨"이 만든 새로운 이더리움 레이어 2 오퍼링인 블라스트가 공개 출시 전에 초대 전용 초기 액세스 캠페인으로 빠르게 주목을 받고 있습니다. 파라다임과 이걸 캐피탈 같은 최고의 암호 화폐 자금들이 투자한 블라스트는 이미 사적인 블라스트 커뮤니티 가입 및 에어드랍 계획에 대한 알려진 모든 내용을 다루는 이 가이드입니다.
 
 # 블라스트 레이어 2의 특별함
-```
+
 
 
 
@@ -50,7 +50,7 @@ Blast 에어드랍 이벤트 - 초대 받는 방법?
 
 
 
-```markdown
+
 ![How to get BLASTL2 Airdrop Tutorial 2](/assets/img/2024-05-05-HowtogetBLASTL2AirdropTutorial_2.png)
 
 - 이더리움 메인넷에서 ETH 또는 stablecoin을 브릿지하여 수익을 창출하십시오.
@@ -58,7 +58,7 @@ Blast 에어드랍 이벤트 - 초대 받는 방법?
 ![How to get BLASTL2 Airdrop Tutorial 3](/assets/img/2024-05-05-HowtogetBLASTL2AirdropTutorial_3.png)
 
 - 맞춤형 추천 코드로 친구들을 추천하여 에어드랍 마일스톤을 달성하세요!
-```
+
 
 
 

@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/blastup-launchpad-secures-6-million-on-pre-sa
 ---
 
 
-```markdown
+
 ![BlastUP launchpad secures $6 million on pre-sale, could do better than VELO and ONDO in Q3](/assets/img/2024-05-16-BlastUPlaunchpadsecures6milliononpre-salecoulddobetterthanVELOandONDOinQ3_thumbnail.png)
 
 # BlastUP launchpad secures $6 million on pre-sale, could do better than VELO and ONDO in Q3
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/blastup-launchpad-secures-6-million-on-pre-sa
 BlastUP ($BLP) on Blast L2 has just surpassed the $6 million pre-sale mark. Experts are buzzing about this launchpad – find out how to increase your chances of receiving the airdrop.
 
 ## $6,000,000 raised with over 15,000 $BLP holders
-```
+
 
 
 

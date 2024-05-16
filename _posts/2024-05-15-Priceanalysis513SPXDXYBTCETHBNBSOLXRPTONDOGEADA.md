@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/price-analysis-5-13-spx-dxy-btc-eth-bnb-so
 ---
 
 
-```markdown
+
 ![Price Analysis](/assets/img/2024-05-15-Priceanalysis513SPXDXYBTCETHBNBSOLXRPTONDOGEADA_thumbnail.png)
 
 ## 비트코인이 60,000달러 수준에서 강력하게 반등하면서 기대감을 불러일으키고 있지만, 여전히 BTC의 범위 바운드 행동이 한동안 계속될 수 있다는 신호일 수도 있습니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/price-analysis-5-13-spx-dxy-btc-eth-bnb-so
 상승 트렌드를 선호하는 트레이더들이 있습니다. 때때로, 다음 방향성 이동에 대한 불확실성이 있을 때, 트레이더들은 주로 기다리는 경향이 있습니다. 이는 비트코인의 경우도 그런 것으로 보입니다. BTC $61,305.
 
 연구 기관 Santiment에 따르면, "공포와 불확실성"이 비트코인의 온체인 활동이 역사적인 저점을 향해 하락하는 요인이 될 수 있다고 합니다. 이 기관은 이것이 반드시 비트코인이 더 떨어질 것을 의미하는 것은 아니라고 해명했습니다.
-```
+
 
 
 
@@ -63,7 +63,7 @@ S&P 500 지수는 전고점으로 향하는 행진을 지속 중이며, 이는 �
 
 
 
-```markdown
+
 ![Price Analysis](/assets/img/2024-05-15-Priceanalysis513SPXDXYBTCETHBNBSOLXRPTONDOGEADA_3.png)
 
 The flattish 20-day EMA and the RSI near the midpoint suggest that the range-bound action may continue for a few more days. If buyers can keep the price above the 20-day EMA, the BTC/USDT pair might see an increase towards the 50-day SMA ($65,426). This level could pose strong resistance, but if the bulls manage to break through, the pair might target $73,777.
@@ -71,7 +71,7 @@ The flattish 20-day EMA and the RSI near the midpoint suggest that the range-bou
 On the other hand, if the price reverses from the 50-day SMA, it could signal bearish activity at higher levels. In that case, the pair may drop to the crucial support range between $59,600 and $56,500.
 
 ## 이더 가격 분석
-```
+
 
 
 

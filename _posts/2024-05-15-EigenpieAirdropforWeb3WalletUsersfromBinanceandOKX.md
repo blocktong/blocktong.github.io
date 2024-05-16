@@ -11,7 +11,7 @@ link: "https://medium.com/eigenpie/eigenpie-airdrop-for-web3-wallet-users-from-b
 ---
 
 
-```markdown
+
 ![Eigenpie Airdrop](/assets/img/2024-05-15-EigenpieAirdropforWeb3WalletUsersfromBinanceandOKX_0.png)
 
 우리는 Eigenpie 커뮤니티와 핵심 지지자들의 성장을 촉진하기 위한 노력에 맞춰, 플랫폼에서 총 EGP 토큰 공급의 1%가 바이낸스와 OKX의 Web3 지갑 사용자들에게 에어드랍으로 배포될 예정이라고 기쁘게 알려드립니다. 이 기본은 CEX의 100,000명의 활성 Web3 사용자 사이에 EGP 토큰을 분배할 것입니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/eigenpie/eigenpie-airdrop-for-web3-wallet-users-from-b
 # 바이낸스 Web3 지갑 사용자를 위한
 
 ![Eigenpie Airdrop](/assets/img/2024-05-15-EigenpieAirdropforWeb3WalletUsersfromBinanceandOKX_1.png)
-```  
+  
 
 
 

@@ -11,7 +11,7 @@ link: "https://medium.com/zentry/zentry-universe-enter-the-worlds-largest-shared
 ---
 
 
-```markdown
+
 ![Zentry Universe](/assets/img/2024-05-16-ZentryUniverseEntertheWorldsLargestSharedAdventure_0.png)
 
 # Zentry Universe의 구성
@@ -19,7 +19,7 @@ link: "https://medium.com/zentry/zentry-universe-enter-the-worlds-largest-shared
 우리의 실제 세계와 끝없는 디지털 세계들이 공존하는 거대한 멀티월드 생태계를 상상해보세요. 그 핵심에는 실제와 가상이 공존하는 Zentry 우주가 있으며, 여기에서는 새로운 경제 활동인 '플레이'가 번성합니다.
 
 "Zentry를 새로운 층으로 생각해 보세요. 다른 층에서 일어나는 모든 일에 대해 컴퓨팅, 게임화, 다리를 놓고 연결하고 보상하는 새로운 계층으로, 다양한 애플리케이션, 플랫폼 및 가상 세계를 통해 스며드는 것이죠." - Zentry의 공동 창업자 및 CEO 인 자린드 티타디라카(Thitadilaka)씨
-```
+
 
 
 

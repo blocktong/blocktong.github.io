@@ -51,7 +51,7 @@ To prevent such exploits, the protocol contained a safeguard that generated a â€
 
 
 
-```markdown
+
 ![Screenshot](/assets/img/2024-05-15-BugsinGainsNetworkforklettradersprofit900oneverytradeReport_1.png)
 
 However, the investigators found that under certain conditions, the system's checks could be bypassed.
@@ -59,7 +59,7 @@ However, the investigators found that under certain conditions, the system's che
 When a user initiated an order, they would specify the opening trade price, stored in the "openPrice" variable. The system checked this value at the start. Yet, the order execution function modified this variable to match "a.Price," the current price with the order's impact included.
 
 This loophole allowed an executor to circumvent the validation by executing the order even if the user had set an unreasonably high opening price. Additionally, the executor could fulfill the order at a price lower than the user's original setting.
-```
+
 
 
 

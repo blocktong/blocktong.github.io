@@ -152,7 +152,7 @@ TradingView의 지표 중에서 뭔가 유효한 것을 찾을 수 있을 거라
 
 
 
-```markdown
+
 ![Image 1](/assets/img/2024-05-05-IhavecreatedanincredibleindicatorthatactuallymakesmoneyunlikeanyotherindicatorIhaveeverseen_12.png)
 
 ![Image 2](/assets/img/2024-05-05-IhavecreatedanincredibleindicatorthatactuallymakesmoneyunlikeanyotherindicatorIhaveeverseen_13.png)
@@ -160,7 +160,7 @@ TradingView의 지표 중에서 뭔가 유효한 것을 찾을 수 있을 거라
 ![Image 3](/assets/img/2024-05-05-IhavecreatedanincredibleindicatorthatactuallymakesmoneyunlikeanyotherindicatorIhaveeverseen_14.png)
 
 ![Image 4](/assets/img/2024-05-05-IhavecreatedanincredibleindicatorthatactuallymakesmoneyunlikeanyotherindicatorIhaveeverseen_15.png)
-```
+
 
 
 

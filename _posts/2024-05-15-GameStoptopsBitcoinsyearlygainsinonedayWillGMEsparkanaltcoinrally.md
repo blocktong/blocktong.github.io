@@ -51,7 +51,7 @@ Exciting times for crypto enthusiasts! Bitcoin seems to be ticking up, with a po
 
 
 
-```markdown
+
 ![이미지](/assets/img/2024-05-15-GameStoptopsBitcoinsyearlygainsinonedayWillGMEsparkanaltcoinrally_2.png)
 
 알트코인의 현재 시장 자본화도 2021년에 알트코인 투자 갈무리를 촉발한 설정과 유사한 형태로 배치되어 있다고 CryptoAmsterdam이 이전 X 게시물에서 언급했다. 아래 차트를 참조했다.
@@ -59,7 +59,7 @@ Exciting times for crypto enthusiasts! Bitcoin seems to be ticking up, with a po
 ![이미지](/assets/img/2024-05-15-GameStoptopsBitcoinsyearlygainsinonedayWillGMEsparkanaltcoinrally_3.png)
 
 잠재적인 랠리는 Rekt Capital의 분석과 일치하며, 이는 6월 초에 알트코인 시즌 시작 전에 알트코인이 지역적으로 바닥을 찾을 것으로 예상한다. 5월 8일의 X 게시물에서 Rekt Capital은 다음과 같이 썼다:
-```
+
 
 
 

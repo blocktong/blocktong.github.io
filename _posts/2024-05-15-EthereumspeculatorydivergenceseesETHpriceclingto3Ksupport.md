@@ -49,14 +49,14 @@ ETH/USD는 계속해서 해당 수준 근처에서 거래되고 있습니다. �
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-15-EthereumspeculatorydivergenceseesETHpriceclingto3Ksupport_2.png)
 
 ## 이윤 실현에 대한 의욕이 없습니다
 
 Glassnode은 시장이 미국 규제기관으로부터 스팟 이더 교환 거래 펀드 (ETF)의 운명에 대한 신호를 기다리고 있다고 요약했습니다.
 
-관련 기사: 글래스노드 기업가들 "상승세의 촛대망치로 금방 덜어질 수 있습니다"```
+관련 기사: 글래스노드 기업가들 "상승세의 촛대망치로 금방 덜어질 수 있습니다"
 
 
 

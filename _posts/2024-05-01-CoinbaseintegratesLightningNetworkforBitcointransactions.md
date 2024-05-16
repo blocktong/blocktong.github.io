@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/coinbase-integrates-lightning-network-bitc
 
 
 
-```Markdown
+
 ![Coinbase integrates Lightning Network for Bitcoin transactions](/assets/img/2024-05-01-CoinbaseintegratesLightningNetworkforBitcointransactions_0.png)
 
 라이트닝 네트워크 상의 이체는 '즉각적'이며, 비트코인 네트워크 상의 이체는 비트코인 네트워크가 처리하는 초당 거래 수의 제한 때문에 10분에서 2시간이 걸릴 수 있습니다. 그러나 코인베이스는 4월 30일 경고했습니다. "일부 자체 보관 지갑으로의 라이트닝을 통한 송금은 고유한 구현 또는 수수료 구조로 인해 여러 시간이 걸리거나 실패할 수 있습니다."
@@ -27,7 +27,7 @@ link: "https://cointelegraph.com/news/coinbase-integrates-lightning-network-bitc
 송신자에 대해 코인베이스는 이체 금액의 0.1%에 해당하는 수수료를 부과할 것입니다.
 
 관련: 라이트닝 개발자들은 '각성'해야 하며 보안 버그를 수정해야 합니다. 그들이 VC를 만족시키는 것이 아닌 — 비트코인 개발자
-```
+
 
 
 

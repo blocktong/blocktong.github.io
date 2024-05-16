@@ -11,7 +11,7 @@ link: "https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218d
 ---
 
 
-```markdown
+
 ![Addressing Sybil Activity](/assets/img/2024-05-05-AddressingSybilActivity_0.png)
 
 지난 2년 이상의 초기 출시 이후에 LayerZero와 상호 작용한 고유 월렛 주소는 거의 600만 개에 이릅니다. 토큰 분배를 고려할 때 중요한 점은 네트워크를 시작하는 데 최적의 사용자 집합을 식별하는 것입니다. 저희의 결론은 가장 내구성 있는 사용자여야 합니다. 내구성이란 프로토콜을 계속 사용하거나 미래에 과거 행위를 반복할 가능성이 가장 높은 사용자를 말합니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218d
 ## 실빌 활동에 대처하기
 
 건강한 분포를 달성하는 데 있어 핵심 도전 과제 중 하나는 실빌 활동을 탐지하는 것입니다.
-```
+
 
 
 

@@ -33,7 +33,7 @@ Cointelegraph Markets Pro와 TradingView의 데이터에 따르면, BTC/USD는 �
 
 
 
-```markdown
+
 ![Bitcoin price taps $647k as US CPI shows core inflation at 3-year low](/assets/img/2024-05-16-Bitcoinpricetaps647KasUSCPIshowscoreinflationat3-yearlow_1.png)
 
 In so doing, core inflation fell to its lowest levels since 2021 — potentially bolstering the case for interest rate cuts.
@@ -41,7 +41,7 @@ In so doing, core inflation fell to its lowest levels since 2021 — potentially
 ![Bitcoin price taps $647k as US CPI shows core inflation at 3-year low](/assets/img/2024-05-16-Bitcoinpricetaps647KasUSCPIshowscoreinflationat3-yearlow_2.png)
 
 Reacting, however, not everyone was so optimistic.
-```
+
 
 
 

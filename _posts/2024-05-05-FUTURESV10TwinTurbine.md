@@ -51,7 +51,7 @@ RDF는 새로운 FUTURES 예금으로 자금이 조달됩니다. 각 예금의 1
 
 
 
-```markdown
+
 ![Twin Turbine](/assets/img/2024-05-05-FUTURESV10TwinTurbine_3.png)
 
 # 터빈
@@ -59,7 +59,7 @@ RDF는 새로운 FUTURES 예금으로 자금이 조달됩니다. 각 예금의 1
 FUTURES V10은 우리에게 빠른 이익 가능성이 상당히 큰 포트폴리오 다각화를 통해 가치를 보다 효율적으로 저장할 수 있는 두 가지 새로운 터빈을 소개합니다.
 
 이전에는 FUTURES에 입금된 모든 가치가 BNB 리저브에 BNB로 저장되었거나 ELEPHANT 토큰을 구매하고 ELEPHANT Treasury로 전송되었습니다. 우리는 그것을 여전히 하고 있지만, 예금 가치의 90%를 ELEPHANT Treasury로 바로 보내는 대신 일부는 대신 비트코인(BTC) 및 TRUNK 토큰을 구매하는 데 사용되며, 이 토큰은 공급이 매우 제한적이고 소멸적입니다.
-```
+
 
 
 
@@ -83,7 +83,7 @@ FUTURES 포트폴리오를 다양화함으로써 이 놀라운 현금 흐름 생
 
 
 
-```markdown
+
 ![Future](/assets/img/2024-05-05-FUTURESV10TwinTurbine_5.png)
 
 # TRUNK에 미치는 영향
@@ -91,7 +91,7 @@ FUTURES 포트폴리오를 다양화함으로써 이 놀라운 현금 흐름 생
 TRUNK는 약 1억 1천만 토큰만 공급되고 있으며, 현재 시점에서 이미 약 300만 개가 소각되었습니다.
 
 TRUNK는 대부분의 토큰보다 깊은 유동성을 가지고 있지만, ELEPHANT나 Bitcoin만큼은 아닙니다. 이는 세 가지 모두를 구매하는 데 동일한 금액이 사용된다면, TRUNK 가격이 가장 많이 상승할 것을 의미합니다.
-```
+
 
 
 

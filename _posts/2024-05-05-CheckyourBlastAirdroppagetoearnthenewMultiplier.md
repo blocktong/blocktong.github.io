@@ -11,7 +11,7 @@ link: "https://medium.com/@vylonuki/check-your-blast-airdrop-page-to-earn-the-ne
 ---
 
 
-```markdown
+
 ![Check your Blast Airdrop page to earn the new Multiplier](/assets/img/2024-05-05-CheckyourBlastAirdroppagetoearnthenewMultiplier_0.png)
 
 # 블라스트 에어드랍이 무엇인가요?
@@ -19,7 +19,7 @@ link: "https://medium.com/@vylonuki/check-your-blast-airdrop-page-to-earn-the-ne
 블라스트(Blast)는 최근 속편히 주목 받고 있는 이더리움(Ethereum) 레이어 2 플랫폼으로, 공개 출시 이전에 초대 전용 일찍 접근할 수 있는 캠페인이 열려 있어 관심을 끌고 있습니다. '팩맨(Pacman)'이라는 Blur 플랫폼 창업자가 만든 블라스트는 이미 Paradigm 및 eGirl Capital과 같은 최고의 암호화 화폐 펀드들로부터 투자를 유치했습니다. 이 안내서에서는 현재 알려진 바에 따르면, 프라이빗 블라스트 커뮤니티 및 에어드랍 프로그램에 참여할 수 있는 접근권을 받는 데 필요한 모든 정보를 다루고 있습니다.
 
 # 블라스트 레이어 2의 특별함
-```
+
 
 
 
@@ -51,7 +51,7 @@ Blast에 접근하려면 현재 커뮤니티의 일원이 이미 있는 사람�
 
 
 
-```markdown
+
 ![2024-05-05-CheckyourBlastAirdroppagetoearnthenewMultiplier_2.png](/assets/img/2024-05-05-CheckyourBlastAirdroppagetoearnthenewMultiplier_2.png)
 
 - 이더리움 메인넷에서 ETH 또는 stablecoin을 브리지하여 예치금을 시작하세요.
@@ -59,7 +59,7 @@ Blast에 접근하려면 현재 커뮤니티의 일원이 이미 있는 사람�
 ![2024-05-05-CheckyourBlastAirdroppagetoearnthenewMultiplier_3.png](/assets/img/2024-05-05-CheckyourBlastAirdroppagetoearnthenewMultiplier_3.png)
 
 - 사용자 지정 추천 코드로 친구들을 추천하여 에어드랍 단계를 나아가세요!
-```
+
 
 
 

@@ -11,7 +11,7 @@ link: "https://medium.com/@mysilafi/blast-airdrop-unleashing-the-power-of-distri
 ---
 
 
-```markdown
+
 ![BLAST Airdrop](/assets/img/2024-05-05-BlastAirdropUnleashingthePowerofDistribution_0.png)
 
 # BLAST 에어드랍이란
@@ -19,7 +19,7 @@ link: "https://medium.com/@mysilafi/blast-airdrop-unleashing-the-power-of-distri
 이름을 언급한지 얼마 안 된 이더리움 레이어 2 오퍼링인 Blast는, 공개 출시 이전에 초대만으로 접근할 수 있는 선구매 캠페인을 통해 주목을 받고 있습니다. Blur Platform의 창시자인 "Pacman"이 만든 Blast는 이미 Paradigm과 eGirl Capital과 같은 최고의 암호화폐 펀드로부터 투자를 유치했습니다. 이 안내서는 현재 알려진 바에 따라 프라이빗 Blast 커뮤니티와 에어드랍 이니셔티브에 참여하는 방법에 대해 다루고 있습니다.
 
 # Blast 레이어 2를 특별하게 만드는 것들
-```
+
 
 
 
@@ -49,7 +49,7 @@ BLAST 에어드랍 참여 방법은 어떻게 되나요?
 
 
 
-```markdown
+
 ![BlastAirdropUnleashingthePowerofDistribution_2](/assets/img/2024-05-05-BlastAirdropUnleashingthePowerofDistribution_2.png)
 
 - 이더리움 메인넷에서 ETH 또는 stablecoin을 브릿지하고 수익을 창출하세요.
@@ -57,7 +57,7 @@ BLAST 에어드랍 참여 방법은 어떻게 되나요?
 ![BlastAirdropUnleashingthePowerofDistribution_3](/assets/img/2024-05-05-BlastAirdropUnleashingthePowerofDistribution_3.png)
 
 - 맞춤형 추천 코드로 친구들을 초대하여 에어드랍 이벤트 달성을 도와보세요!
-```
+
 
 
 

@@ -49,7 +49,7 @@ Blast 공개 이벤트 - 초대 받는 방법?
 
 
 
-```markdown
+
 ![Blast Invite Code Instruction](/assets/img/2024-05-05-BlastInvitecodeInstructionHowtogetBLASTSTAKINGAirdrop_2.png)
 
 - 이더리움 메인넷에서 이더리움 또는 스테이블코인을 브릿지하여 수익을 얻으세요.
@@ -57,7 +57,7 @@ Blast 공개 이벤트 - 초대 받는 방법?
 ![Blast Invite Code Instruction](/assets/img/2024-05-05-BlastInvitecodeInstructionHowtogetBLASTSTAKINGAirdrop_3.png)
 
 - 커스텀 추천 코드로 친구들을 초대하여 에어드랍 마일스톤을 달성하세요!
-```
+
 
 
 

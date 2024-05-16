@@ -214,29 +214,29 @@ sudo apt install libssl-dev pkg-config
 
 텍스트 형식으로 바꾸면 다음과 같습니다:
 
-```
+
 ![How To Run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_10.png)
-```
+
 
 탭을 눌러 "확인" 옵션으로 이동한 다음 Enter 키를 누릅니다. 이후 터미널로 돌아가서 다음 코드를 붙여 넣고 Enter 키를 누르면 됩니다. 응답을 요구하지 않지만 걱정하지 마세요, 뭔가가 변경되었습니다.
 
 
 
-```markdown
-```
+
+
 
 그런 다음이 코드로 동일한 작업을 수행합니다. 아무 응답이 표시되지는 않지만 필요한 변경 사항을 적용할 것입니다:
 
-```markdown
+
 echo ‘export OPENSSL_DIR=/usr/include/openssl’ >> ~/.bashrc
 source ~/.bashrc
-```
+
 
 다시 한 번 이 라인도 같은 방법으로 처리해주세요:
 
 
 
-```markdown
+
 ```sh
 export OPENSSL_LIB_DIR=/usr/lib/x86_64-linux-gnu
 export OPENSSL_INCLUDE_DIR=/usr/include/openssl
@@ -339,7 +339,7 @@ cargo build --release
 
 
 
-```markdown
+
 ![How to run a Puffer Finance Testnet Node 15](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_15.png)
 
 Once it's done building the files, your terminal should look like this:
@@ -347,7 +347,7 @@ Once it's done building the files, your terminal should look like this:
 ![How to run a Puffer Finance Testnet Node 16](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_16.png)
 
 You should see "Finished" as displayed on the last green line.
-```
+
 
 
 
@@ -397,7 +397,7 @@ nano
 
 
 
-```markdown
+
 ![2024-05-05-HowtorunaPufferFinanceTestnetNode_19](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_19.png)
 
 After entering your password, press Ctrl+O. If you are using MacOS, remember to use the "control" key, not the "command" key. You will see the following at the bottom of the text editor:
@@ -457,15 +457,15 @@ After making these modifications, copy the command and paste it into your termin
 
 
 
-```Markdown
+
 ![Step 1](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_25.png)
-```
+
 
 Once you've completed that, your terminal will resemble:
 
-```Markdown
+
 ![Step 2](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_26.png)
-```
+
 
 If you see that, you're all set. We will revisit this directory later in the process.
 
@@ -527,7 +527,7 @@ cd /tmp/
 ![이미지](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_30.png)
 
 거기 보이는 숫자들은 비밀 키이지만, 기억해 주셔야 할 점은 우리가 지정한 지갑의 개인 키를 사용하려는 것이기 때문에, 여기서 해야 할 일은 지갑의 개인 키를 붙여 넣는 것입니다. 그러니 거기에 있는 숫자를 삭제하고, Windows에서는 오른쪽 클릭, MacOS에서는 Command+V를 통해 개인 키를 텍스트 편집기에 붙여 넣으세요. 이전에 보여 드린 것처럼, 저의 예시 개인 키는 "9825b255c5a7bf027237140ebb86e11970027467d08f6a2ad84f02b6665b1f30" 이므로, 그것을 거기에 붙여 넣을 겁니다.
-```
+
 
 
 
@@ -581,9 +581,9 @@ make -jX nimbus_beacon_node
 
 한번 작업을 마치면, 아래와 같이 보일 것입니다:
 
-```markdown
+
 ![Image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_33.png)
-```
+
 
 이 작업을 마치면, 합의 클라이언트를 동기화해야 합니다. 보통 걸리는 시간을 줄이기 위해 신뢰할 수 있는 노드에서 신뢰할 수 있는 동기화를 수행할 것입니다. 이를 위해 다음 명령어를 실행할 것입니다:
 
@@ -717,7 +717,7 @@ sudo apt-get install dotnet-sdk-8.0 dotnet-runtime-8.0
 ```
 
 ![이미지](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_38.png)
-```
+
 
 
 
@@ -758,15 +758,15 @@ dotnet build Nethermind.sln -c Release
 
 그리고 모든 필요한 파일을 만들면 다음과 같이 보일 것입니다:
 
-```markdown
+
 ![How to run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_42.png)
-```
+
 
 작업이 완료되면 다음과 같이 보일 것입니다:
 
-```markdown
+
 ![How to run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_43.png)
-```
+
 
 
 
@@ -864,7 +864,7 @@ Holesky Launchpad에서 해당 명령어를 복사하고 터미널에 붙여넣�
 
 
 
-```markdown
+
 ![How to run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_56.png)
 
 ![How to run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_57.png)
@@ -872,7 +872,7 @@ Holesky Launchpad에서 해당 명령어를 복사하고 터미널에 붙여넣�
 ![How to run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_58.png)
 
 ![How to run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_59.png)
-```
+
 
 
 
@@ -972,7 +972,7 @@ scp root@0.0.0.0:~/puffer/coral/registration.json ~/Desktop
 
 
 
-```markdown
+
 ![How to run a Puffer Finance Testnet Node 68](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_68.png)
 
 ![How to run a Puffer Finance Testnet Node 69](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_69.png)
@@ -980,11 +980,11 @@ scp root@0.0.0.0:~/puffer/coral/registration.json ~/Desktop
 ![How to run a Puffer Finance Testnet Node 70](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_70.png)
 
 ![How to run a Puffer Finance Testnet Node 71](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_71.png)
-```
 
 
 
-```markdown
+
+
 ![image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_72.png)
 
 ![image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_73.png)
@@ -992,7 +992,7 @@ scp root@0.0.0.0:~/puffer/coral/registration.json ~/Desktop
 ![image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_74.png)
 
 ![image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_75.png)
-```
+
 
 
 
@@ -1060,7 +1060,7 @@ cd ~/nimbus-eth2
 ```
 
 ![이미지](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_79.png)
-```
+
 
 
 
@@ -1110,9 +1110,9 @@ dotnet run -c Release --   --config=holesky   --datadir="../../../../nethermind-
 
 
 
-```
+
 ![How to run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_84.png)
-```
+
 
 그래서 이제 우리가 Consensus 클라이언트 동기화하고, 실행 클라이언트를 연결했으니, 그냥 완료될 때까지 기다리면서 우리의 Puffer 대시보드로 돌아가서 등록을 완료하면 됩니다.
 
@@ -1142,7 +1142,7 @@ Holesky Puffer Validator Ticket Contract: 0xA143c6bFAff0B25B485454a9a8DB94dC469F
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_89.png)
 
 ![Image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_90.png)
@@ -1150,7 +1150,7 @@ Holesky Puffer Validator Ticket Contract: 0xA143c6bFAff0B25B485454a9a8DB94dC469F
 Remember the file called “registration.json” we downloaded earlier? This is where we need it
 
 ![Image](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_91.png)
-```
+
 
 
 
@@ -1164,7 +1164,7 @@ Remember the file called “registration.json” we downloaded earlier? This is 
 
 
 
-```
+
 ![How to Run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_95.png)
 
 이렇게 하면 콘센서스와 실행 클라이언트가 활성화 대기열(Beacon Chain)이 종료되기 전에 완전히 동기화되었는지 확인하기만 하면 됩니다.
@@ -1172,7 +1172,7 @@ Remember the file called “registration.json” we downloaded earlier? This is 
 클라이언트들이 서로 및 블록체인과 동기화되었으면, 활성화 대기열이 종료될 때까지 기다리기만 하면 됩니다. 그럼 beaconcha.in 페이지가 다음과 같이 표시될 것입니다:
 
 ![How to Run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_96.png)
-```
+
 
 
 

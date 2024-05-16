@@ -33,7 +33,7 @@ link: "https://medium.com/dev-genius/implementing-a-web3-nft-api-in-rust-ed3a0c7
 
 프로젝트는 다음과 같이 구성되어 있습니다:
 
-```
+
 rust-nft-api/
 ├── contract/
 │   └── MyNFT.sol
@@ -283,7 +283,7 @@ pub struct UploadResponse {
 
 # TokenFileForm
 
-TokenFileForm은 파일 업로드 양식의 데이터 구조를 정의합니다. 특히 NFT와 관련된 파일을 업로드하기 위한 것입니다. 파일 필드는 업로드되는 파일의 바이너리 내용을 나타내는 'Vec<u8>'의 바이트 벡터입니다.
+TokenFileForm은 파일 업로드 양식의 데이터 구조를 정의합니다. 특히 NFT와 관련된 파일을 업로드하기 위한 것입니다. 파일 필드는 업로드되는 파일의 바이너리 내용을 나타내는 'Vec u8'의 바이트 벡터입니다.
 
 ## ApiResponse
 
@@ -878,7 +878,6 @@ async fn get_all_owned_tokens<T: Transport>(
 
 
 
-```rust
 ## 주소 지정 및 들어오는 요청 수신 시작
 
 메인 함수는 Axum 서버를 초기화하며, 정의된 엔드포인트에 대한 경로를 설정하고 CORS와 같은 미들웨어를 구성합니다. 서버를 지정된 주소에 바인딩하고 들어오는 요청을 수신하기 시작합니다.

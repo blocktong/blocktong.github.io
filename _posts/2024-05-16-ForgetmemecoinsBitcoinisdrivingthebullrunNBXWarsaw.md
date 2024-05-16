@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/forget-memecoins-bitcoin-driving-bullrun"
 ---
 
 
-```markdown
+
 ![ForgetmemecoinsBitcoinisdrivingthebullrunNBXWarsaw_thumbnail](/assets/img/2024-05-16-ForgetmemecoinsBitcoinisdrivingthebullrunNBXWarsaw_thumbnail.png)
 
 ## 비트코인 ETF의 성공과 비트코인 하프닝의 영향이 암호화폐 시장에 상당한 영향을 미치고 있습니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/forget-memecoins-bitcoin-driving-bullrun"
 비트코인, 메멘코인이 아닌, 비트코인은 비트코인 ETF와 하프닝의 영향으로 이번 상승장의 중추적인 주도 역할을 계속할 것으로 예상됩니다. 
 
 이는 워사의 Next Block Expo 첫째 날에서 주요 산업 관계자들이 현재 시장 사이클의 주요 트렌드를 분석함으로써 도출된 중요한 결론 중 하나였습니다.
-```
+
 
 
 

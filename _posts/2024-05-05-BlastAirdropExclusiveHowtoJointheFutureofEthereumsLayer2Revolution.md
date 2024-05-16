@@ -53,7 +53,7 @@ link: "https://medium.com/@43modestia/blast-airdrop-exclusive-how-to-join-the-fu
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-05-BlastAirdropExclusiveHowtoJointheFutureofEthereumsLayer2Revolution_2.png)
 
 - 이더리움 메인넷에서 ETH나 스테이블코인을 브릿지해보세요. 수익을 창출할 수 있습니다.
@@ -61,7 +61,7 @@ link: "https://medium.com/@43modestia/blast-airdrop-exclusive-how-to-join-the-fu
 ![Image](/assets/img/2024-05-05-BlastAirdropExclusiveHowtoJointheFutureofEthereumsLayer2Revolution_3.png)
 
 - 커스텀 추천 코드로 친구를 초대하여 에어드랍 달성 목표로 나아갈 수 있어요!
-```
+
 
 
 

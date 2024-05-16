@@ -11,7 +11,7 @@ link: "https://medium.com/@fybuki/blast-airdrop-your-guide-to-safe-blast-tokens-
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-15-BlastAirdropYourGuidetoSafeBlastTokens_0.png)
 
 # 블라스트 에어드랍 소개
@@ -19,7 +19,7 @@ link: "https://medium.com/@fybuki/blast-airdrop-your-guide-to-safe-blast-tokens-
 암호화폐의 변화무쌍한 풍경에서 혁신적인 프로젝트들은 자주 에어드랍을 전략으로 활용하여 커뮤니티 구축, 토큰 유통 증대 및 잠재적 사용자들과의 상호작용을 증가시킵니다. 블라스트 에어드랍은 $BLAST 토큰을 배포함으로써 커뮤니티에게 블록체인 네트워크의 성장에 직접 참여할 기회를 제공하여 돋보입니다. 이 이벤트는 초기 지지자들에게만 보상을 주는 것뿐만 아니라 블라스트 플랫폼의 서비스의 더 넓은 채택을 촉진하는 것을 목표로 합니다.
 
 # 블라스트 에어드랍이란?
-```
+
 
 
 

@@ -11,7 +11,7 @@ link: "https://medium.com/@zapuvaqe/blast-airdrop-guide-earn-free-crypto-3-3-int
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-15-BlastAirdropGuideEarnFreeCrypto33InterestonETH_0.png)
 
 # Blast Airdrop 소개
@@ -19,7 +19,7 @@ link: "https://medium.com/@zapuvaqe/blast-airdrop-guide-earn-free-crypto-3-3-int
 암호화폐의 끊임없이 변화하는 환경에서 혁신적인 프로젝트들은 종종 에어드랍을 사용하여 커뮤니티를 형성하고 토큰 순환을 증가시키며 잠재적 사용자들과 소통하는 전략을 펼칩니다. Blast 에어드랍은 $BLAST 토큰의 배포를 통해 블록체인 네트워크의 성장에 직접 참여할 수 있는 기회를 커뮤니티에 제공하여 주목을 받고 있습니다. 이 이벤트는 초기 지원자들에게 보상을 주는 것뿐만 아니라 Blast 플랫폼의 서비스의 널리 사용됨을 촉진하기 위해 설계되었습니다.
 
 # Blast 에어드랍이란 무엇인가?
-```
+
 
 
 

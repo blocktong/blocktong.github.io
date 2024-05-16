@@ -11,7 +11,7 @@ link: "https://medium.com/@lyzomute/blast-airdrop-and-ecosystem-guide-how-to-par
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-05-BlastAirdropandEcosystemGuideHowtoParticipate_0.png)
 
 # 블라스트 에어드랍이란
@@ -19,7 +19,7 @@ link: "https://medium.com/@lyzomute/blast-airdrop-and-ecosystem-guide-how-to-par
 블라스트는 Blur Platform의 창립자인 "Pacman"이 새롭게 소개한 이더리움 레이어 2 제공물로, 공개 출시 이전에 초청만으로 이루어지는 조기 접근 캠페인으로 빠르게 주목을 받고 있습니다. Blast는 Paradigm 및 eGirl Capital과 같은 최고의 암호화 화폐 펀드로부터 투자를 유치했습니다. 이 안내서는 현재 알려진 바에 의하면, 프라이빗 블라스트 커뮤니티 및 에어드랍 계획에 참여하기 위한 액세스를 받는 것에 대해 모두 다루고 있습니다.
 
 # Blast 레이어 2를 특별하게 만드는 것들
-```  
+  
 
 
 
@@ -51,7 +51,7 @@ BLAST 에어드랍 자격을 얻으려면 어떻게 해야 하나요?
 
 
 
-```markdown
+
 ![Blast Airdrop and Ecosystem Guide - How to Participate 2](/assets/img/2024-05-05-BlastAirdropandEcosystemGuideHowtoParticipate_2.png)
 
 - 이더리움 메인넷에서 ETH 또는 stablecoin을 브릿지하여 수익을 창출하세요.
@@ -59,7 +59,7 @@ BLAST 에어드랍 자격을 얻으려면 어떻게 해야 하나요?
 ![Blast Airdrop and Ecosystem Guide - How to Participate 3](/assets/img/2024-05-05-BlastAirdropandEcosystemGuideHowtoParticipate_3.png)
 
 - 맞춤형 추천 코드로 친구를 소개하여 에어드랍 달성 목표를 달성하세요!
-```
+
 
 
 

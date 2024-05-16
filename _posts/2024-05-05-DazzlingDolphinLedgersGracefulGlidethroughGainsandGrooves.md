@@ -15,9 +15,9 @@ link: "https://medium.com/@MetFi_DAO/dazzling-dolphin-ledgers-graceful-glide-thr
 
 오늘, 우리는 그의 슬림하고 지혜로운 진화를 축하합니다. Dazzling Dolphin으로 변모한 것은 광활한 디지털 바다에서 민첩성과 통찰력의 상징입니다.
 
-```
+
 ![Dazzling Dolphin](/assets/img/2024-05-05-DazzlingDolphinLedgersGracefulGlidethroughGainsandGrooves_0.png)
-```
+
 
 # 기민한 수영가에서 시장 항해자로
 

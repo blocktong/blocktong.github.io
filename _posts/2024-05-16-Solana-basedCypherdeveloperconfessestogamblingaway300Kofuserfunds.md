@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/solana-cypher-developer-gambling-scandal"
 ---
 
 
-```markdown
+
 ![2024-05-16-Solana-basedCypherdeveloperconfessestogamblingaway300Kofuserfunds_thumbnail](/assets/img/2024-05-16-Solana-basedCypherdeveloperconfessestogamblingaway300Kofuserfunds_thumbnail.png)
 
 ## 내부자의 악용은 36건 이상의 개별 거래에도 불구하고 수개월 동안 감지되지 않았습니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/solana-cypher-developer-gambling-scandal"
 익명의 Cypher Protocol 개발자인 Hoak은 거의 30만 달러 상당의 사용자 자금을 훔쳐 도박에 낭비한 것을 시인했습니다.
 
 Solana 기반의 크로스-마진 탈중앙화 거래소 (DEX)인 Cypher의 핵심 개발자는 5월 14일 X 게시물에서 공유된 공개 성명에서 그의 잘못을 인정했습니다:
-```
+
 
 
 

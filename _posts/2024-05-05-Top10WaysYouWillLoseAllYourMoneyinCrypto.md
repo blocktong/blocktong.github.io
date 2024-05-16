@@ -83,7 +83,7 @@ link: "https://medium.com/@tonyob/top-10-ways-you-will-lose-all-your-money-in-cr
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-05-Top10WaysYouWillLoseAllYourMoneyinCrypto_4.png)
 
 # 4. 잘못된 주소로 송금하기
@@ -91,7 +91,7 @@ link: "https://medium.com/@tonyob/top-10-ways-you-will-lose-all-your-money-in-cr
 이제 당신은 분산 월렛을 안전하게 관리했습니다. 이제 거래소에서 월렛으로 암호화폐를 송금하려 합니다.
 
 주소를 찾아서 복사합니다. 코인베이스로 이동하여 주소를 붙여넣기하고 코인을 송금한 후, 그리고... 
-```
+
 
 
 

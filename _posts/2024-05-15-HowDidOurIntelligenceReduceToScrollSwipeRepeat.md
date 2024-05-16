@@ -11,7 +11,7 @@ link: "https://medium.com/freelance-express/how-did-our-intelligence-reduce-to-s
 ---
 
 
-```markdown
+
 ![image](/assets/img/2024-05-15-HowDidOurIntelligenceReduceToScrollSwipeRepeat_0.png)
 
 틱톡 춤과 15초 주의 집중이 우리 사회를 지배하는 세상에서, 사람들이 집중하도록 하려고 하면 마치 카페인 중독 고양이들을 몰고 다니는 것 같아요.
@@ -19,7 +19,7 @@ link: "https://medium.com/freelance-express/how-did-our-intelligence-reduce-to-s
 우리 뇌는 마치 과도하게 활동적인 TV 리모컨보다 빠르게 채널을 전환하는 것이 프로그래밍된 것처럼 보여요. 이렇게 되었으니 마치 설탕을 먹은 다람쥐처럼 주의 집중력이 부족하게 되었어요.
 
 3분짜리 유튜브 동영상을 보는 것이 약속 같았던 때를 기억하시나요?
-```
+
 
 
 

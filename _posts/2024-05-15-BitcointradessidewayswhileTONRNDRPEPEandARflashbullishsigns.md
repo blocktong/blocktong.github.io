@@ -77,7 +77,7 @@ Render (RNDR)은 5월 5일 이동 평균선을 돌파하여 보정 단계가 끝
 
 
 
-```markdown
+
 ![Bitcoin trading sideways while TON, RNDR, PEPE, and AR flash bullish signs](/assets/img/2024-05-15-BitcointradessidewayswhileTONRNDRPEPEandARflashbullishsigns_6.png)
 
 The bears are currently attempting to push the pair below the 20-EMA. If successful, the short-term bullish momentum may weaken, leading to a potential drop to the 50-SMA. While this level could attract buyers, any subsequent rebound might face resistance at the 20-EMA. Should the 50-SMA support fail, the next significant level to watch is around $9.50.
@@ -85,7 +85,7 @@ The bears are currently attempting to push the pair below the 20-EMA. If success
 To sustain their control, buyers will need to defend the 20-EMA and propel the price above the $12 resistance level.
 
 Read more: Is the altcoin market gearing up for an 'explosive rally'? Analysts keep an eye on these 3 key indicators.
-```
+
 
 
 

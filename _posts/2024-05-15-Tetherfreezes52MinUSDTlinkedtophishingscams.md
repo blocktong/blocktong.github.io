@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/tether-freezes-usdt-phishing-scams"
 ---
 
 
-```markdown
+
 ![Tether가 시작된 이후, 법 집행 기관의 요청에 따라 불법 활동과 관련된 10억 달러 가치의 자산이 동결되었습니다.](/assets/img/2024-05-15-Tetherfreezes52MinUSDTlinkedtophishingscams_thumbnail.png)
 
 ## Tether가 시작된 이후, 법 집행 기관의 요청에 따라 불법 활동과 관련된 10억 달러 가치의 자산이 동결되었습니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/tether-freezes-usdt-phishing-scams"
 스테이블코인 발행사인 Tether는 5월 14일에, 피싱 사기와 관련된 520만 달러의 자산인 Tether USDT를 동결했습니다. 이 USDT는 "USDT Banned Address"로 태그된 12개의 이더리움 지갑에 저장되어 있었습니다.
 
 블록체인 데이터 및 보안 분석 업체인 SlowMist의 최고 보안 담당자는 해당 주소들이 더 자세한 내용을 설명하지 않고 피싱 사기로부터 자금을 세탁하는 데 사용되었다고 말했습니다.
-```
+
 
 
 

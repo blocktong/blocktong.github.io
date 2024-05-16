@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/why-this-rwa-project-is-set-to-revolutionize-
 ---
 
 
-```markdown
+
 ![Thumbnail](/assets/img/2024-05-15-WhythisRWAprojectissettorevolutionizethewayyoufillupyourvehicles_thumbnail.png)
 
 # Why this RWA project is set to revolutionize the way you fill up your vehicles!
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/why-this-rwa-project-is-set-to-revolutionize-
 Gaswizard, in collaboration with its native token GWIZ, is all set to transform the landscape of fueling experiences worldwide. Through innovative technology and a commitment to efficiency, Gaswizard aims to revolutionize how drivers approach refueling and, in turn, lead in a new era of convenience and savings.
 
 The Problem with Traditional Fueling
-```
+
 
 
 

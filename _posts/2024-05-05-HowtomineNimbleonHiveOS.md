@@ -31,7 +31,7 @@ link: "https://medium.com/@owlyeagle/how-to-mine-nimble-on-hive-os-b15980ce48d3"
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-05-HowtomineNimbleonHiveOS_3.png)
 
 To set up Python3 venv:
@@ -39,7 +39,7 @@ To set up Python3 venv:
 Make sure you have Python 3.9 or a newer version along with pip3 installed.
 
 For Linux:
-```
+
 
 
 

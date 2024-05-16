@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/trending-new-solana-gamefi-token-mega-dice-sm
 ---
 
 
-```markdown
+
 ![Trending New Solana GameFi Token Mega Dice Smashes $1M Raise in Crypto Presale](/assets/img/2024-05-16-TrendingNewSolanaGameFiTokenMegaDiceSmashes1MRaiseinCryptoPresale_thumbnail.png)
 
 # 트렌디한 새로운 Solana 게임화폐 토큰 Mega Dice, 암호화 프리세일에서 100만 달러 모금 돌파
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/trending-new-solana-gamefi-token-mega-dice-sm
 트렌드 중인 새로운 Solana 게임화폐 토큰 Mega Dice ($DICE) 가 지속 중인 프리세일에서 100만 달러의 장벽을 뚫었습니다.
 
 처음 가격은 0.069달러였으며, $DICE 프리세일 가격은 오늘 0.075달러로 상승하여 8.6% 상승했습니다.
-```  
+  
 
 
 

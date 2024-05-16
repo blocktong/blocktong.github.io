@@ -288,7 +288,7 @@ ATOR 프로젝트는 화려한 로드맵 그래픽으로 요약하기에 너무 
 
 여러 DePIN 프로젝트는 자신들의 트래픽을 ATOR 릴레이를 통해 라우팅하는 데 관심을 표명했으며, 이 특정 사용 사례는 ATOR 웹사이트에 들어가면 가장 먼저 볼 수 있는 것이다.
 
-![2024-05-05-CanCryptoHelpImproveInternetPrivacy_9.png]({{ site.url }}/assets/img/2024-05-05-CanCryptoHelpImproveInternetPrivacy_9.png)
+![2024-05-05-CanCryptoHelpImproveInternetPrivacy_9.png](/assets/img/2024-05-05-CanCryptoHelpImproveInternetPrivacy_9.png)
 
 ## ATOR에 대한 과제
 

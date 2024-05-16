@@ -11,7 +11,7 @@ link: "https://medium.com/@qykizyri/blast-airdrop-full-guide-10-000-blast-airdro
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-15-BlastAirdropFULLGuide10000BlastAirdropFarmingGuide_0.png)
 
 # Blast Airdrop 소개
@@ -19,7 +19,7 @@ link: "https://medium.com/@qykizyri/blast-airdrop-full-guide-10-000-blast-airdro
 암호화폐의 끊임없이 발전하는 풍경에서 혁신적인 프로젝트들은 종종 에어드랍을 사용해 커뮤니티를 구축하고 토큰 순환을 증가시키며 잠재적인 사용자와 상호작용하는 전략을 채택합니다. Blast Airdrop은 $BLAST 토큰의 배포를 통해 블록체인 네트워크의 성장에 직접 참여할 수 있는 기회를 커뮤니티에 제공하여 돋보입니다. 이 이벤트는 초기 지지자들을 보상하는 데 그치지 않고 Blast 플랫폼의 서비스의 보다 포괄적인 채택을 촉진하는 데 목적을 두고 있습니다.
 
 # Blast Airdrop은 무엇인가요?
-```
+
 
 
 

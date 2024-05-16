@@ -11,7 +11,7 @@ link: "https://medium.com/@kupiasec/finding-a-viper-in-the-curved-lawn-e43401997
 ---
 
 
-```markdown
+
 ![Finding a viper in the curved lawn](/assets/img/2024-05-05-Findingaviperinthecurvedlawn_0.png)
 
 복잡성이 있는 곳에는 종종 버그가 숨어 있습니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/@kupiasec/finding-a-viper-in-the-curved-lawn-e43401997
 2023년 11월 말에, ETH 메인넷에서 버그 사냥을 여러 차례 시도했지만 성공하지 못한 후 결정을 내렸습니다. Avalanche의 Multichain Router V6에서의 공격은 Ethereum이 철저한 검토를 받고 다수의 MEV 봇을 유치하는 반면, 다른 L1 체인들이 상대적으로 적은 주목을 받는다는 점을 상기시켜 주었습니다. 이는 해당 공격의 단순성과 2년 가까이 감지되지 않은 사실에서 명백합니다. Avalanche도 복잡한데, X, P 및 C 체인으로 구성되어 있습니다. 복잡성이 오류와 간과의 가능성을 높인다는 점이 명확히 드러납니다.
 
 ![Finding a viper in the curved lawn](/assets/img/2024-05-05-Findingaviperinthecurvedlawn_1.png)
-```
+
 
 
 

@@ -34,7 +34,7 @@ Poloniex가 해커를 식별했다고 주장하고 수주 후 1천만 달러의 
 
 
 
-```markdown
+
 ![The hacker moved over 17,800 ETH from six different wallets into a single Tornado Cash address](/assets/img/2024-05-15-StolenPoloniexEtherworth53Mnevermadeitbacktotheexchange_1.png)
 
 해커는 17,800 ETH를 여섯 개의 다른 지갑에서 하나의 토네이도 캐시 주소로 이동시켰습니다. 이 전이 당시 토큰의 가치는 약 5천 3백만 달러였습니다.
@@ -42,7 +42,7 @@ Poloniex가 해커를 식별했다고 주장하고 수주 후 1천만 달러의 
 관련 내용: 파이크 파이낸스, 3일 만에 1백 6백만 달러 차익 획득으로 공격 받음
 
 폴로니엑스는 1억 달러의 손실에도 불구하고 잠시 후 운영을 재개하여 투자자들이 자유롭게 암호화폐를 예치하고 인출할 수 있게 했습니다.
-```
+
 
 
 

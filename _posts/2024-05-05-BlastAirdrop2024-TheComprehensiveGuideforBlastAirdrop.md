@@ -49,7 +49,7 @@ BLAST 에어드랍 참여 방법은 어떻게 되나요?
 
 
 
-```markdown
+
 ![BlastAirdrop2024-TheComprehensiveGuideforBlastAirdrop_2.png](/assets/img/2024-05-05-BlastAirdrop2024-TheComprehensiveGuideforBlastAirdrop_2.png)
 
 - 이더리움 메인넷에서 ETH 또는 안정화폐를 브릿지하여 수익을 창출하세요.
@@ -57,7 +57,7 @@ BLAST 에어드랍 참여 방법은 어떻게 되나요?
 ![BlastAirdrop2024-TheComprehensiveGuideforBlastAirdrop_3.png](/assets/img/2024-05-05-BlastAirdrop2024-TheComprehensiveGuideforBlastAirdrop_3.png)
 
 - 맞춤 추천 코드로 친구를 추천하여 에어드랍 달성 지점으로 나아가 보세요!
-```
+
 
 
 

@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/bitcoin-in-april-halving-chart-price-fallout-
 ---
 
 
-```markdown
+
 ![Bitcoin in April](/assets/img/2024-05-16-BitcoininAprilHalvingPriceFalloutNetworkPeaksandETFUpdates_thumbnail.png)
 
 # 4월 비트코인: 하반기 가격 추이, 네트워크 피크 및 ETF 업데이트
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/bitcoin-in-april-halving-chart-price-fallout-
 2024년 4월, 비트코인은 FTX 붕괴 이후 가장 급격한 가격 하락에 직면했습니다. 하반기 차트에 초점을 맞춰봤지만, 새로운 프로토콜과 ETF 개발에 이끌리며 네트워크 활동은 역대 최고치로 치솟았습니다. 이 보고서에서는 지난 달 비트코인의 생태계와 BTC 가격 변동을 탐구하고 분석합니다.
 
 ## 3월 비트코인 분석에서 찾을 수 있는 것:
-```  
+  
 
 
 

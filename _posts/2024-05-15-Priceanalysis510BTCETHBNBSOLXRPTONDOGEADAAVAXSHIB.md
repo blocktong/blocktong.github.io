@@ -21,13 +21,13 @@ link: "https://cointelegraph.com/news/price-analysis-5-10-btc-eth-bnb-sol-xrp-to
 
 
 
-```markdown
+
 ![Bitcoin Price Analysis](/assets/img/2024-05-15-Priceanalysis510BTCETHBNBSOLXRPTONDOGEADAAVAXSHIB_0.png)
 
 Bitcoin’s long-term investors do not seem to be worried about the range-bound price action in the near term. In a recent interview with journalist Mike Solana, Twitter co-founder Jack Dorsey said that Bitcoin could skyrocket to at least $1 million by 2030 and even surpass the level from that point onward.
 
 Could buyers continue to defend the support levels in Bitcoin and altcoins, or will the bears prevail? Let’s analyze the charts of the top 10 cryptocurrencies to find out.
-```
+
 
 비트코인의 장기 투자자들은 최근의 가격 변동이 범위 내에서 움직이는 것에 대해 걱정하지 않는 것으로 보인다. 기자 Mike Solana와의 최근 인터뷰에서 트위터 공동 창업자 잭 도시는 2030년까지 비트코인이 최소 1백만 달러까지 치솟을 수 있으며 그 이후 더 높은 수준으로 상회할 수 있다고 말했습니다.
 

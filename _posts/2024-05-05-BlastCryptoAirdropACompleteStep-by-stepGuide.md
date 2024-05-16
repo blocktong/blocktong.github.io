@@ -49,7 +49,7 @@ Here are some invitation codes for you to join the Blast Airdrop:
 
 
 
-```markdown
+
 ![BlastCryptoAirdropACompleteStep-by-stepGuide_2](/assets/img/2024-05-05-BlastCryptoAirdropACompleteStep-by-stepGuide_2.png)
 
 - Ethereum 메인넷에서 ETH 또는 stablecoins를 브릿지하여 수익을 창출해보세요.
@@ -57,7 +57,7 @@ Here are some invitation codes for you to join the Blast Airdrop:
 ![BlastCryptoAirdropACompleteStep-by-stepGuide_3](/assets/img/2024-05-05-BlastCryptoAirdropACompleteStep-by-stepGuide_3.png)
 
 - 맞춤형 추천 코드로 친구를 초대하여 에어드랍 달성을 위한 진행도를 높이세요!
-```
+
 
 
 

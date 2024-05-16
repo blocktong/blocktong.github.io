@@ -64,7 +64,7 @@ ICON 네트워크는 2 종류의 스마트 계약을 지원합니다. ICON 생�
 
 
 
-```markdown
+
 ![image 0](/assets/img/2024-05-05-HowWeAccidentallyDiscoveredaDoSAttackandReceiveda25KBountyBountyHuntingJourney_0.png)
 
 ![image 1](/assets/img/2024-05-05-HowWeAccidentallyDiscoveredaDoSAttackandReceiveda25KBountyBountyHuntingJourney_1.png)
@@ -72,7 +72,7 @@ ICON 네트워크는 2 종류의 스마트 계약을 지원합니다. ICON 생�
 ![image 2](/assets/img/2024-05-05-HowWeAccidentallyDiscoveredaDoSAttackandReceiveda25KBountyBountyHuntingJourney_2.png)
 
 Now, the function will go over all the files in the zip and check (line 398) if the file path starts with the package name extracted from the path of the “package.json” file (pkgBase, which is “hello_world” in our example).
-```
+
 
 
 
@@ -224,10 +224,9 @@ API 파일이 잘못됨으로 인해 처리되지 않은 예외가 발생했습�
 
 
 
-```markdown
+
 ![Screenshot](/assets/img/2024-05-05-HowWeAccidentallyDiscoveredaDoSAttackandReceiveda25KBountyBountyHuntingJourney_17.png)
 
 # 결론
 
 블록체인 네트워크는 복잡한 로직을 수행하는 방대한 코드베이스로 이루어져 있어 다양한 잠재적 문제점을 가지고 있습니다. 보상 사냥꾼들에게는 이 도메인이 매우 매력적하며, 저에게는 스마트 계약보다 훨씬 더 흥미로운 곳입니다. 기능적 디버깅 환경은 버그 사냥을 현저하게 가속화하고 간소화해줍니다. 게다가 운은 모든 보상 사냥꾼의 필수 도구로서 핵심적인 역할을 합니다.
-```

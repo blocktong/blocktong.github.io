@@ -11,7 +11,7 @@ link: "https://medium.com/@nyfefewy/blast-blast-airdrop-claim-full-guide-40a97bb
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-05-BlastBlastAirdropClaimFullGuide_0.png)
 
 # 블라스트 에어드랍이란
@@ -19,7 +19,7 @@ link: "https://medium.com/@nyfefewy/blast-blast-airdrop-claim-full-guide-40a97bb
 블라스트는 Ethereum 레이어 2 솔루션으로, 일반 출시 이전의 클로즈드 초대 전용 액세스 캠페인으로 신속하게 주목을 받고 있습니다. Blur Platform의 창립자인 "Pacman"이 만들었으며, Paradigm과 eGirl Capital과 같은 최고의 암호화 펀드들로부터 투자를 유치했습니다. 이 안내서는 현재 알려진 바에 따른 프라이빗 블라스트 커뮤니티 및 에어드랍 이니셔티브에 참여하는 방법에 대해 다루고 있습니다.
 
 # 블라스트 레이어 2의 특징
-```  
+  
 
 
 

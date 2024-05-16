@@ -11,7 +11,7 @@ link: "https://medium.com/elephant-money/trunk-keys-are-renounced-a66ca60d61e9"
 ---
 
 
-```markdown
+
 ![TRUNK Token’s Administrative Key Renouncement](/assets/img/2024-05-05-TRUNKKEYSARERENOUNCED_0.png)
 
 # TRUNK 토큰의 관리 키 포기
@@ -19,7 +19,7 @@ link: "https://medium.com/elephant-money/trunk-keys-are-renounced-a66ca60d61e9"
 2024년 4월 30일 - 획기적인 탈중앙화 금융(DeFi) 플랫폼인 Elephant Money가 자체 토큰 TRUNK에 대한 관리 키를 즉시 포기했다고 기쁜 소식을 전합니다. 이를 통해 보안, 투명성 및 커뮤니티 자율성을 높이는 새로운 시대가 열립니다.
 
 # 이 소식이 중요한 이유
-```
+
 
 
 

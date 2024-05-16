@@ -11,7 +11,7 @@ link: "https://medium.com/@cryptorookies/turning-20k-of-bitcoin-ethereum-into-1m
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-05-Turning20KofBitcoinEthereuminto1MusingGrid-Bots75after75days_0.png)
 
 # 요약
@@ -19,7 +19,7 @@ link: "https://medium.com/@cryptorookies/turning-20k-of-bitcoin-ethereum-into-1m
 2024년 2월 14일 비트코인에 대한 첫 그리드 봇을 시작할 때 초기 자본은 3,143달러였습니다. 그 후 이더리움 그리드봇에 추가로 3,363달러를 투자하여 총 투자 자본은 6,506달러가 되었습니다. 지난 몇 주간 ROI가 부정적이었지만 지금은 총 자본이 11,417달러에 이르렀습니다. 이는 0.362 BTC(시장 가격 62,312달러)와 7 ETH(시장 가격 3,171달러)으로 구성되어 있습니다.
 
 ![Image](/assets/img/2024-05-05-Turning20KofBitcoinEthereuminto1MusingGrid-Bots75after75days_1.png)
-```
+
 
 
 
