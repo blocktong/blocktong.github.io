@@ -82,8 +82,7 @@ Bladerite에서는 다양한 스킨을 가진 여러 클래스가 있습니다.
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![LootModeBladeritescoreprofit-makingfeatureiscurrentlyinfullswing](/assets/img/2024-05-17-LootModeBladeritescoreprofit-makingfeatureiscurrentlyinfullswing_7.png)
 
 ## Contact us
-```

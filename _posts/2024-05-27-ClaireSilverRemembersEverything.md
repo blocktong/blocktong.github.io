@@ -81,7 +81,7 @@ link: "https://medium.com/@museumofcryptoart/claire-silver-remembers-everything-
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-27-ClaireSilverRemembersEverything_5.png)
 
 Just like before, think critically about what you remember.
@@ -89,7 +89,7 @@ Just like before, think critically about what you remember.
 It’s my assumption that you, like I, will have an exponentially easier time remembering the specific details of such pieces. Hair color, eye placement, details which strike us as particularly odd and thus memorable. And it’s not that we don’t pick up on a tone here, but there’s so much more detail to muddy any tone in particular.
 
 Silver has made the artifice of these works their most obvious aspect, influenced as they are by artistic movements like Pop Art, Anime and popular animation, and Chinese Wood Block Art, all of which:
-```
+
 
 <div class="content-ad"></div>
 

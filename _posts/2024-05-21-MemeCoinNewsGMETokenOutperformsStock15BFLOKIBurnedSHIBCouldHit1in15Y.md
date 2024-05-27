@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/meme-coin-news-gme-token-outperforms-stock-15
 ---
 
 
-```Markdown
+
 ![Meme Coin News](/assets/img/2024-05-21-MemeCoinNewsGMETokenOutperformsStock15BFLOKIBurnedSHIBCouldHit1in15Y_thumbnail.png)
 
 # Meme Coin News: GME Token Outperforms Stock, 15B FLOKI Burned, SHIB Could Hit $1 in 15Y
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/meme-coin-news-gme-token-outperforms-stock-15
 Get your weekly, bite-sized digest of meme coin news.
 
 __________
-```
+
 
 <div class="content-ad"></div>
 

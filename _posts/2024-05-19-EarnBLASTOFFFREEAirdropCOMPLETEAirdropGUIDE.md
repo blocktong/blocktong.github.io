@@ -43,6 +43,5 @@ BlastOff은 OFFxPoints 및 Galxe 참가자들에게 100,000 OFF 토큰을 에어
 
 <div class="content-ad"></div>
 
-```
+
 ![Alt text](/assets/img/2024-05-19-EarnBLASTOFFFREEAirdropCOMPLETEAirdropGUIDE_2.png)
-```

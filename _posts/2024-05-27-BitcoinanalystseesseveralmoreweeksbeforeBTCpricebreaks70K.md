@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/bitcoin-analyst-several-more-weeks-before-
 ---
 
 
-```markdown
+
 ![Bitcoin Analyst Sees Several More Weeks Before BTC Price Breaks 70K](/assets/img/2024-05-27-BitcoinanalystseesseveralmoreweeksbeforeBTCpricebreaks70K_thumbnail.png)
 
 ## 비트코인은 아직 새로운 최고가 아래에서 consolidating을 마치지 않은 것으로 보입니다. BTC 가격이 70,000달러를 돌파하는 데 몇 주가 더 걸릴 수도 있습니다.
@@ -22,7 +22,7 @@ $68,701
 5월 26일 주간 마감까지 주요 BTC 가격 수준 근처에 머물렀으며, 주말 거래는 주로 $69,000에 초점을 맞추었습니다.
 
 ![Bitcoin Analyst Sees Several More Weeks Before BTC Price Breaks 70K](/assets/img/2024-05-27-BitcoinanalystseesseveralmoreweeksbeforeBTCpricebreaks70K_0.png)
-```
+
 
 <div class="content-ad"></div>
 

@@ -11,9 +11,9 @@ link: "https://medium.com/@fybuki/notcoin-airdrop-of-may-2024-claim-free-notcoin
 ---
 
 
-```markdown
+
 ![Step 1: Visit the Official Notcoin Airdrop Site](/assets/img/2024-05-19-NotcoinAirdropofMay2024ClaimfreeNotcoinFullGuide_1.png)
-```
+
 
 암호화폐의 계속 발전하는 환경에서 에어드랍(airdrops) 개념은 상당한 주목을 받고 있습니다. 그 중에서도 Notcoin 에어드랍은 토큰을 보다 넓은 대중에게 배포하는 인기 있는 방법 중 하나로 부상했습니다. 여러분이 경험 많은 암호화폐 애호가이든 디지털 자산의 세계에 발을 담그는 중이든, Notcoin 에어드랍이 어떻게 작동하는지 이해하는 것이 중요합니다.
 

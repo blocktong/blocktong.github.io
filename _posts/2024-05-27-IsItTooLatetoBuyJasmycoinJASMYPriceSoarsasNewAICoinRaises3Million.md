@@ -11,13 +11,13 @@ link: "https://cryptonews.com/news/is-it-too-late-to-buy-jasmycoin-jasmy-price-s
 ---
 
 
-```markdown
+
 ![Is It Too Late to Buy Jasmycoin? JASMY Price Soars as New AI Coin Raises $3 Million](/assets/img/2024-05-27-IsItTooLatetoBuyJasmycoinJASMYPriceSoarsasNewAICoinRaises3Million_thumbnail.png)
 
 The price of decentralized data storage coin JasmyCoin ($JASMY) has surged 13% in the past 24 hours and 32% in the last week following news of the US SEC's approval of exchange-traded funds (ETFs) for Ethereum ($ETH), the blockchain that powers Jasmy.
 
 Often dubbed as the "Japanese Bitcoin," Jasmy provides an on-chain data storage solution that empowers individuals with greater control and autonomy over their personal data through a feature known as a Personal Data Locker (PDL). Users can opt to share this data with businesses that are willing to pay for it.
-```
+
 
 <div class="content-ad"></div>
 
@@ -32,7 +32,7 @@ Jasmy의 가격 차트를 보면, 최근 3개월 동안 비교적 좁은 범위�
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Jasmycoin Price Soars](/assets/img/2024-05-27-IsItTooLatetoBuyJasmycoinJASMYPriceSoarsasNewAICoinRaises3Million_0.png)
 
 The current price of JasmyCoin is hovering around a key resistance level, with recent whale activity pushing it close to 3 cents in the past 24 hours. This surge led to an overbought RSI value above 80, triggering a subsequent sell-off that pulled both the price and RSI down. The RSI now stands at 47, back in a healthy range but potentially susceptible to further fluctuations in the short term.
@@ -40,7 +40,7 @@ The current price of JasmyCoin is hovering around a key resistance level, with r
 ## JasmyCoin Price Surge and WienerAI's $3 Million Milestone
 
 The recent bullish price movement of JasmyCoin highlights its position as one of the many projects tapping into the wide range of use cases offered by blockchain technology.
-```
+
 
 <div class="content-ad"></div>
 

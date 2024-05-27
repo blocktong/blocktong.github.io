@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/bitcoin-whale-demand-surges-price-jump-cou
 ---
 
 
-```markdown
+
 ![Bitcoin Whale Demand](/assets/img/2024-05-16-BitcoinwhaledemandacceleratesbutpricejumpcouldtakeweeksAnalysts_thumbnail.png)
 
 ## 비트코인의 일일 하락세가 멈추면서 고래들의 수요가 증가했는데, 이는 비트코인 가격이 급등할 수 있다는 신호입니다. 그러나 전문가들은 몇 주가 걸릴 것으로 예상합니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/bitcoin-whale-demand-surges-price-jump-cou
 비트코인 대규모 홀더들이 가상화폐를 더 많이 축적하고 있는데, 암호화폐 전문가들은 몇 주 동안 새로운 최고치에 이를 것으로 기대하고 있습니다.
 
 “비트코인은 아마도 일부 추가 시간을 소비하여 범위 하단 지역을 유지할 것으로 예상되지만, 일반적으로 전진 흐름은 시간이 흐름에 따라 다시 범위 상단을 방문할 것입니다,” 익명의 암호화폐 트레이더 Rekt Capital은 CoinTelegraph에 전했습니다.
-```
+
 
 <div class="content-ad"></div>
 

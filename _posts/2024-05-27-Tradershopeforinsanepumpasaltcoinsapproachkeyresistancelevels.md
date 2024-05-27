@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/traders-hope-insane-pump-altcoins-approach
 ---
 
 
-```markdown
+
 ![알트시즌](/assets/img/2024-05-27-Tradershopeforinsanepumpasaltcoinsapproachkeyresistancelevels_thumbnail.png)
 
 ## 알트코인 시장의 성장과 비트코인 지배력의 감소로 알트시즌에 대한 새로운 희망이 불거지고 있습니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/traders-hope-insane-pump-altcoins-approach
 최근 알트코인 시장 총 자본금 증가와 이더(ETH) 등 일부 알트코인의 상승세로, 알트시즌이 다가오고 있지 않을까 하는 분석가들의 추측이 다시 나오고 있습니다.
 
 지난 일주일간 27% 상승한 이더를 비롯해 트레이더들과 분석가들은 알트코인을 주목하고 있습니다.
-```
+
 
 <div class="content-ad"></div>
 

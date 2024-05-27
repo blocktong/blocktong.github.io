@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/is-bitcoin-price-going-to-crash-again"
 ---
 
 
-```markdown
+
 ![Bitcoin price](/assets/img/2024-05-21-IsBitcoinpricegoingtocrashagain_thumbnail.png)
 
 ## 앞으로 몇 주 안에 비트코인은 장기 기술적 저항 수준을 다시 테스트한 후 적어도 20% 하락할 수 있다고 합니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/is-bitcoin-price-going-to-crash-again"
 Bitcoin의 가격은 지난 3주 동안 2달 만에 $56,550 정도의 낮은 가격을 기록한 후 19% 이상 반등하여 5월 20일에 약 $67,270에 도달했습니다. 그러나 이후 몇 일 내에 급격한 하락이 가능하다고 합니다.
 
 ![Bitcoin price](/assets/img/2024-05-21-IsBitcoinpricegoingtocrashagain_0.png)
-```
+
 
 <div class="content-ad"></div>
 

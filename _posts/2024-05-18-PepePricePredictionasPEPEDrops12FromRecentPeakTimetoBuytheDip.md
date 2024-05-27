@@ -11,13 +11,13 @@ link: "https://cryptonews.com/news/pepe-price-prediction-as-pepe-drops-12-from-r
 ---
 
 
-```markdown
+
 ![Pepe Price Prediction as PEPE Drops 12% From Recent Peak – Time to Buy the Dip?](/assets/img/2024-05-18-PepePricePredictionasPEPEDrops12FromRecentPeakTimetoBuytheDip_thumbnail.png)
 
 The Pepe (PEPE) price has been pulling lower since hitting fresh record highs earlier this week. Traders are wondering whether now might be the time to buy the recent dip, as PEPE has dropped 12% from its peak.
 
 Pepe spiked up to new record highs above $0.000011 earlier this week following GameStop icon Roaring Kitty’s abrupt return.
-```
+
 
 <div class="content-ad"></div>
 

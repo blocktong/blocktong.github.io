@@ -11,13 +11,13 @@ link: "https://cointelegraph.com/news/bitcoin-analysis-74k-next-btc-price-hold-g
 ---
 
 
-```markdown
+
 ![Bitcoin analysis sees $74K next as BTC price tries to hold $75 gains](/assets/img/2024-05-17-Bitcoinanalysissees74KnextasBTCpricetriestohold75gains_thumbnail.png)
 
 ## BTC의 가격이 5월 16일 미국 거시 데이터로 위험 자산 급등을 유발한 후 $66,000에 도달했습니다.
 
 ![Bitcoin analysis sees $74K next as BTC price tries to hold $75 gains](/assets/img/2024-05-17-Bitcoinanalysissees74KnextasBTCpricetriestohold75gains_0.png)
-```
+
 
 <div class="content-ad"></div>
 

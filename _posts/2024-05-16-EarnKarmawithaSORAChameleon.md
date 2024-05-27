@@ -25,7 +25,7 @@ SORA 토큰 노미스틱스에 중요한 업그레이드가 진행 중이며, �
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![image](/assets/img/2024-05-16-EarnKarmawithaSORAChameleon_0.png)
 
 # Fire Up Your Earnings with $KARMA
@@ -33,7 +33,7 @@ SORA 토큰 노미스틱스에 중요한 업그레이드가 진행 중이며, �
 Just like how KEN supply was determined by burning XOR for KEN, a burn-drop event will be held for $KARMA tokens. This time, it's set at a rate of 100 million XOR burnt for 1 $KARMA, making it the ultimate status symbol. Picture the look of awe when you reveal your Fearless Wallet and display the impressive stack of $KARMA tokens. Burning more than 100 million XOR will earn you proportionally more $KARMA tokens, but burning less than that amount will yield nothing! The window to burn your XOR and participate in the $KARMA burn-drop is between blocks 15,739,737 and 16,056,666.
 
 ![image](/assets/img/2024-05-16-EarnKarmawithaSORAChameleon_1.png)
-```  
+  
 
 <div class="content-ad"></div>
 

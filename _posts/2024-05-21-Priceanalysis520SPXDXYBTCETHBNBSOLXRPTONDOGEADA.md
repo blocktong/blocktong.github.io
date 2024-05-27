@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/price-analysis-5-20-spx-dxy-btc-eth-bnb-so
 ---
 
 
-```markdown
+
 ![Bitcoin Price Analysis](/assets/img/2024-05-21-Priceanalysis520SPXDXYBTCETHBNBSOLXRPTONDOGEADA_thumbnail.png)
 
 ## 비트코인 가격이 역대 최고치를 추격 중입니다. 이에 따라 대체 코인들도 이에 힘입어 상승할 준비를 하고 있는 것으로 나타났습니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/price-analysis-5-20-spx-dxy-btc-eth-bnb-so
 지난 주 비트코인(BTC)는 급등했지만 여전히 큰 범위 안에 머물고 있습니다. 비트코인이 정점을 찍었는지, 아니면 상승세가 계속될 것인지에 대한 의문이 모든 트레이더들의 마음을 사로잡고 있습니다. "ELI5 of TLDR" 분석가는 X 글에서 7개의 온체인 지표 중 5개가 상승 시장이 시작될 수도 있다고 보고 있으며, 2개는 정점 패턴을 나타냅니다.
 
 심리적 지원선 주변 $60,000 근처에서의 비트코인의 반등은 현물 비트코인 거래소펀드에 대한 매수 흥미를 자극한 것으로 보입니다. Farside Investors 데이터에 따르면 지난 주에는 약 $9.5억이 유입되었으며, 3월 이후 최상의 주간 성과를 거두었습니다. 유입이 이어지면 비트코인은 상승을 놀라게 할 수 있습니다.
-```  
+  
 
 <div class="content-ad"></div>
 

@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/xlink-kaamel-technology-10m-breach-investi
 ---
 
 
-```markdown
+
 ![KaamelTechnology](/assets/img/2024-05-21-KaamelTechnologytoleadinvestigationintoXLinks10Mbreach_thumbnail.png)
 
 XLink가 Kaamel Technology와 파트너십을 맺어 침해의 초기 원인을 조사하고 이전에 공지된 보안 업그레이드를 빠르게 진행할 예정입니다.
@@ -19,7 +19,7 @@ XLink가 Kaamel Technology와 파트너십을 맺어 침해의 초기 원인을 
 5월 20일에 발표된 바에 따르면, 비트코인 브릿지인 XLink가 최근 보안 침해 사안 조사를 위해 주요 이니셔티브의 하나로 Kaamel Technology와 파트너십을 맺었습니다.
 
 X매체 게시글에 따르면, XLink는 이 파트너십과 병행하여 앞으로 발생할 수 있는 침해에 대해 비트코인 브릿지 플랫폼을 안전하게 하는 데 기여하고 있습니다.
-```
+
 
 <div class="content-ad"></div>
 

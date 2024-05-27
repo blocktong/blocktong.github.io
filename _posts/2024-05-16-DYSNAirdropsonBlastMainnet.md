@@ -11,7 +11,7 @@ link: "https://medium.com/@qivobonu/dysn-airdrops-on-blast-mainnet-46e8c79a79b0"
 ---
 
 
-```markdown
+
 ![Blast Airdrop](/assets/img/2024-05-16-DYSNAirdropsonBlastMainnet_0.png)
 
 # Blast Airdrop 소개
@@ -19,7 +19,7 @@ link: "https://medium.com/@qivobonu/dysn-airdrops-on-blast-mainnet-46e8c79a79b0"
 암호화폐의 빠르게 변화하는 환경 속에서 혁신적인 프로젝트들은 종종 에어드랍을 사용하여 커뮤니티를 구축하고 토큰 유통을 증가시키며 잠재적 사용자와 소통하는 전략으로 활용합니다. Blast Airdrop은 $BLAST 토큰을 배포함으로써 커뮤니티에게 블록체인 네트워크의 성장에 직접 참여할 기회를 제공하는 점에서 돋보입니다. 이 이벤트는 초기 지지자들을 보상하는 데 그치지 않고 Blast 플랫폼의 서비스의 보다 넓은 채택을 촉진하기 위해 설계되었습니다.
 
 # Blast Airdrop이란?
-```
+
 
 <div class="content-ad"></div>
 

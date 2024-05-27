@@ -141,7 +141,7 @@ ETF 수요는 새로운 환경 속에 있습니다. Bitcoin의 블록 보상은 
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![ETFsbuy3XnewBTCsupply5ThingstoknowinBitcointhisweek](/assets/img/2024-05-21-ETFsbuy3XnewBTCsupply5ThingstoknowinBitcointhisweek_6.png)
 
 "ETF 자금의 두 번째 웨이브에 딱 맞네요,” Fahrer가 그 현상에 대해 언급하며 “수요 충격”과 “비탄력적 공급”의 조합에 주목했습니다.
@@ -149,7 +149,7 @@ ETF 수요는 새로운 환경 속에 있습니다. Bitcoin의 블록 보상은 
 "2021년에는 상승세의 정점에서 약 270만 비트코인이 거래소 예비금에 보유되어 $69,000 주변에서 거래되었습니다. 세 사년 뒤, 예비금은 약 200만 비트코인으로 감소했지만 거래 가격은 역사적인 최고점에 접근하고 있다," 그 동안 CryptoQuant의 기여 분석가가 지난 주의 Quicktake 시장 업데이트 중 하나에서 썼습니다.
 
 #### “최근의 하프닝 이벤트는 채굴자들의 잠재적 새 공급을 절반으로 줄였으며, 이에 따라 시장에 새 비트코인이 판매를 통해 진입할 가능성이 크게 감소했습니다. 이러한 역학을 고려하면 비트코인에 대한 곰세력 입장을 유지하는 것이 어려워집니다.”
-```
+
 
 <div class="content-ad"></div>
 
@@ -163,7 +163,7 @@ ETF 수요는 새로운 환경 속에 있습니다. Bitcoin의 블록 보상은 
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Bitcoin ETF image](/assets/img/2024-05-21-ETFsbuy3XnewBTCsupply5ThingstoknowinBitcointhisweek_7.png)
 
 While there is some greed present, it is not at the extreme levels observed during Bitcoin's previous peak in March, when the greed level reached 90 out of 100.
@@ -171,7 +171,7 @@ While there is some greed present, it is not at the extreme levels observed duri
 Despite the analysis of the sentiment, research firm Santiment has identified the most optimistic sentiment towards Bitcoin since January.
 
 According to a post on May 17, "The sentiment of the crowd has shifted towards Bitcoin following the unexpected surge above $66K on Wednesday (now surpassing $67.2K)." 
-```
+
 
 <div class="content-ad"></div>
 

@@ -81,7 +81,7 @@ AWS 인증 솔루션 아키텍트 – 어소시에이트 외에도, 아마존은
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Certifications in Cloud, Network, Project Management, Cyber Security, and Software Development](/assets/img/2024-05-21-ITCertificationsinCloudNetworkProjectManagementCyberSecurityandSoftwareDevelopment_3.png)
 
 Agile and Scrum Certifications:
@@ -89,7 +89,7 @@ Agile and Scrum Certifications:
 The adoption of agile methodologies in software development has led to the rise of certifications in this area. The Certified ScrumMaster (CSM) certification, offered by Scrum Alliance, is a widely recognized credential that demonstrates an individual’s understanding of the Scrum framework and their ability to effectively facilitate Scrum events and coach Scrum teams.
 
 Another popular agile certification is the Professional Scrum Master (PSM) certification, offered by Scrum.org. The PSM certification focuses on validating an individual’s expertise in the Scrum framework and their ability to apply it in a practical, real-world context.
-```
+
 
 <div class="content-ad"></div>
 

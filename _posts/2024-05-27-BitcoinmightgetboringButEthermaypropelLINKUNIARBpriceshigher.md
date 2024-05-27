@@ -64,7 +64,7 @@ $3,913
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![BitcoinmightgetboringButEthermaypropelLINKUNIARBpriceshigher](/assets/img/2024-05-27-BitcoinmightgetboringButEthermaypropelLINKUNIARBpriceshigher_4.png)
 
 The 4-hour chart shows that the moving averages are sloping up, and the RSI is near the overbought zone, signaling that bulls have the edge. Buyers will try to strengthen their position further by pushing the price above $3,950. If they succeed, the pair may climb to $4,100.
@@ -72,7 +72,7 @@ The 4-hour chart shows that the moving averages are sloping up, and the RSI is n
 The bears are likely to have other plans. They will try to pull the price below the 20-EMA. If they do that, it could attract profit booking by the short-term bulls. The pair may drop to $3,730 and thereafter to the 50-SMA. A break below this level will tilt the advantage in favor of the sellers.
 
 ## Chainlink price analysis
-```
+
 
 <div class="content-ad"></div>
 

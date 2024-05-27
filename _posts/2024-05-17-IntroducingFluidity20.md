@@ -11,7 +11,7 @@ link: "https://medium.com/@fluiditymoney/introducing-fluidity-2-0-c1fc76258245"
 ---
 
 
-```markdown
+
 ![Introducing Fluidity 2.0](/assets/img/2024-05-17-IntroducingFluidity20_0.png)
 
 After launching our $FLY Governance Token, Staking, and the third Airdrop Season, we’re thrilled to introduce Fluidity 2.0.
@@ -19,7 +19,7 @@ After launching our $FLY Governance Token, Staking, and the third Airdrop Season
 With 2.0, we’re leading the way in Governance, Utility Mining, Gauges, and upgrading $fUSDC to make it yield-bearing for both holding and transacting. We'll start by rolling out the Fluidity DAO, followed by Utility Gauges and our plans for the Utility Wars, and then dive into $fUSDC. These ideas are still a work in progress, and we'd love to hear the community's feedback!
 
 This update transforms Fluidity into the Curve of Utility and a hub for Order Flow, providing protocols with a means to direct Order Flow their way.
-```
+
 
 <div class="content-ad"></div>
 

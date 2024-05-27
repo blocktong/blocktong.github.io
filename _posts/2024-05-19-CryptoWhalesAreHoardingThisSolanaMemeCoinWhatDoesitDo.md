@@ -11,13 +11,13 @@ link: "https://cryptonews.com/news/crypto-whales-are-hoarding-this-solana-meme-c
 ---
 
 
-```markdown
+
 ![Crypto Whales Are Hoarding This Solana Meme Coin – What Does it Do?](/assets/img/2024-05-19-CryptoWhalesAreHoardingThisSolanaMemeCoinWhatDoesitDo_thumbnail.png)
 
 A presale for Solana’s all-American hillbilly $SEAL token has attracted over $1.4 million in just three weeks as it leads a new wave of Solana meme coins that has caught the attention of investors worldwide.
 
 Sealana’s predecessors, meme coins like DogWifHat ($WIF), Bonk ($BONK), Book of Meme ($BOME), and Popcat ($POPCAT), all rose to become top ten meme coins by market capitalization within a year of launch.
-```
+
 
 <div class="content-ad"></div>
 

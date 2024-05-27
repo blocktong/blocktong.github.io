@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/sec-pursue-ripple-xrp-for-2-billion-tether-us
 ---
 
 
-```markdown
+
 ![SEC Pursue Ripple (XRP) for $2 Billion, Tether (USDT) Increases Investment in CityPay, Does Rollblock (RBLK) Have The Potential To Surge 1200%](/assets/img/2024-05-18-SECPursueRippleXRPfor2BillionTetherUSDTIncreasesInvestmentinCityPayDoesRollblockRBLKHaveThePotentialToSurge1200_thumbnail.png)
 
 # SEC Pursue Ripple (XRP) for $2 Billion, Tether (USDT) Increases Investment in CityPay, Does Rollblock (RBLK) Have The Potential To Surge 1200%
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/sec-pursue-ripple-xrp-for-2-billion-tether-us
 Recently, the SEC decided to pursue Ripple (XRP) for $2B as its legal battle heats up. Meanwhile, Tether (USDT) has increased its investment in CityPay, a payment service. Amidst these developments, all eyes are on Rollblock (RBLK) – a Stage 1 presale star. Analysts claim that this altcoin could surge 1200% in 2024. Let’s see why.
 
 ## The SEC Demands Ripple (XRP) To Pay $2B
-```
+
 
 <div class="content-ad"></div>
 

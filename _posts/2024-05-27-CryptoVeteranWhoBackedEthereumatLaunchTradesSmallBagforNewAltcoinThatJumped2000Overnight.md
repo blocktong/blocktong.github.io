@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/crypto-veteran-who-backed-ethereum-at-launch-
 ---
 
 
-```markdown
+
 ![Crypto Veteran Who Backed Ethereum at Launch Trades Small Bag for New Altcoin That Jumped 2000% Overnight](/assets/img/2024-05-27-CryptoVeteranWhoBackedEthereumatLaunchTradesSmallBagforNewAltcoinThatJumped2000Overnight_thumbnail.png)
 
 # 이더리움 창시에 진열 지원한 크립토 베테랜이 야간에 2000% 급등한 신규 알트코인으로 작은 가방 교환
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/crypto-veteran-who-backed-ethereum-at-launch-
 어떤 이는 다른 이들이 보지 못한 가능성을 보았으며, ETH가 디지털 화폐 전역의 중요한 요충지가 되면서 상당한 보상을 누리고 있습니다. 그중 한 투자자는 일찍부터 이더리움을 지원한 것으로 알려졌으며, 이제 시장을 뒤흔든 새로운 알트코인 Retik Finance (RETIK)에 주목했습니다. 이 기사에서는 그의 최신 이동에 대해 살펴보며, 이 크립토 베테랜이 RETIK이 다음 대세가 될 수 있다고 믿는 이유를 탐구합니다.
 
 ## 다음 대세를 찾아라
-```
+
 
 <div class="content-ad"></div>
 

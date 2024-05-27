@@ -23,7 +23,7 @@ Brc:ID NFT 등록 방법과 중요 사항
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![User Account NFT Usage Guide](/assets/img/2024-05-16-UserAccountNFTBrcIDUsageGuide_1.png)
 
 # 📌핵심 포인트
@@ -34,7 +34,7 @@ Brc:ID NFT 등록 방법과 중요 사항
 - 5월 23일 4:00 UTC부터 플랫폼에 등록할 수 있습니다.
 
 # 🪧플랫폼에 등록하는 방법
-```
+
 
 <div class="content-ad"></div>
 

@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/wall-street-pepe-surges-1000x-overnight-and-e
 ---
 
 
-```markdown
+
 ![Wall Street Pepe Surges 1000x Overnight and Experts Predict This is the Next Coin to Watch](/assets/img/2024-05-17-WallStreetPepeSurges1000xOvernightandExpertsPredictThisistheNextCointoWatch_thumbnail.png)
 
 # Wall Street Pepe Surges 1000x Overnight and Experts Predict This is the Next Coin to Watch
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/wall-street-pepe-surges-1000x-overnight-and-e
 Roaring Kitty is back, igniting excitement across the meme coin markets. Wall Street Pepe was leading the pack but in a dramatic collapse, the price has now crashed.
 
 This article will provide an analysis of WSP’s current price trends and look to see whether an innovative new meme coin, Dogeverse, represents a more compelling investment opportunity at this time.
-```
+
 
 <div class="content-ad"></div>
 

@@ -21,7 +21,7 @@ SEC가 스포트 이더리움 거래소 상장펀드(ETF)에 대한 승인을 �
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Bitcoin price analysis](/assets/img/2024-05-27-Priceanalysis524BTCETHBNBSOLXRPDOGETONADAAVAXSHIB_0.png)
 
 비트코인은 여전히 측면 가격 변동에 갇혀 있지만, Fundstrat Global Advisors의 파트너이자 연구 책임자인 톰 리는 매우 낙관적인 입장을 유지하고 있습니다. CNBC와의 인터뷰에서 리는 올해 말까지의 비트코인 기본 케이스가 $150,000이라고 말했습니다.
@@ -29,7 +29,7 @@ SEC가 스포트 이더리움 거래소 상장펀드(ETF)에 대한 승인을 �
 비트코인과 일부 대체 코인이 즉각적인 지원 수준에서 반등할 수 있을까요? 상위 10대 암호화폐의 차트를 분석해 보겠습니다.
 
 ## 비트코인 가격 분석
-```
+
 
 <div class="content-ad"></div>
 

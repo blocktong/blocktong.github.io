@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/bitcoin-golden-cross-last-sparked-170-btc-
 ---
 
 
-```markdown
+
 ![Bitcoin Golden Cross](/assets/img/2024-05-18-Bitcoinprepsgoldencrosswhichlastsparked170BTCpricegains_thumbnail.png)
 
 ## 비트코인은 낮은 타임프레임에서 상승 신호를 보이고 있지만, BTC 가격은 주요 저항선을 극복할 수 있을까요?
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/bitcoin-golden-cross-last-sparked-170-btc-
 Bitcoin BTC $67,203이 하늘 높은 곳에서 유동성을 유지하며, 분석가들은 낮은 타임프레임에서 새로운 "골든 크로스"에 주목했습니다.
 
 ![BTC Golden Cross](/assets/img/2024-05-18-Bitcoinprepsgoldencrosswhichlastsparked170BTCpricegains_0.png)
-```
+
 
 <div class="content-ad"></div>
 

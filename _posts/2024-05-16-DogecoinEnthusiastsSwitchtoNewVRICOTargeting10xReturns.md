@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/dogecoin-enthusiasts-switch-to-new-vr-ico-tar
 ---
 
 
-```markdown
+
 ![Dogecoin Enthusiasts Switch to New VR ICO, Targeting 10x Returns](/assets/img/2024-05-16-DogecoinEnthusiastsSwitchtoNewVRICOTargeting10xReturns_thumbnail.png)
 
 # Dogecoin Enthusiasts Switch to New VR ICO, Targeting 10x Returns
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/dogecoin-enthusiasts-switch-to-new-vr-ico-tar
 도지코인(DOGE)이 주요 하락 추세선을 넘어가려고 할 때, 도지코인 애호가들은 10배의 수익을 목표로 5스케이프(5SCAPE)라는 흥미로운 신규 VR ICO에 관심을 전환하고 있습니다.
 
 수요일에 도지코인은 전체 소비자물가지수(CPI) 후 암호화폐 및 전통금융 시장의 넓은 상승 흐름 가운데 상승하여 0.15달러 초반에 7% 이상 상승했습니다.
-```
+
 
 <div class="content-ad"></div>
 

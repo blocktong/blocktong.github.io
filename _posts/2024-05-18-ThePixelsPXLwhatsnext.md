@@ -41,7 +41,7 @@ link: "https://medium.com/the-pixels/the-pixels-pxl-whats-next-6bd17d5ae25b"
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![/assets/img/2024-05-18-ThePixelsPXLwhatsnext_3.png](https://yourwebsite.com/assets/img/2024-05-18-ThePixelsPXLwhatsnext_3.png)
 
 The sale of 10 paintings from the 10 weeks of The Pixels will start on May 23 and will last for 14 days. The highest bids for each painting will be accepted on June 6 (Thursday) at 11 UTC. Within a week after this, the reward for every user will be available for claim in the game, proportional to each player’s share of colored pixels in the snapshots.
@@ -49,7 +49,7 @@ The sale of 10 paintings from the 10 weeks of The Pixels will start on May 23 an
 # $PXL 토큰 생성 이벤트
 
 ![/assets/img/2024-05-18-ThePixelsPXLwhatsnext_4.png](https://yourwebsite.com/assets/img/2024-05-18-ThePixelsPXLwhatsnext_4.png)
-```  
+  
 
 <div class="content-ad"></div>
 

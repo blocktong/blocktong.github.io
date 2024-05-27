@@ -41,6 +41,5 @@ link: "https://medium.com/digital-global-traveler/what-to-do-when-theres-nowhere
 
 ## 이민자의 일개기인가요?
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-WhatToDoWhenTheresNowhereLeftToGo_1.png)
-```

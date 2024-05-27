@@ -31,7 +31,7 @@ To sum up the economic history of the past 60 years visually, take a look at the
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-27-InSearchofaMajorTechnologicalBreakthroughPartIDegrowthTheUncomfortableTruthBehindtheGreenRevolution_3.png)
 
 Stage 1. Late 1960s to early 1980s: 기술 침체 및 스태그플레이션.
@@ -39,7 +39,7 @@ Stage 1. Late 1960s to early 1980s: 기술 침체 및 스태그플레이션.
 기술 발전, 노동 생산성 및 GDP 성장률이 둔화됩니다. 경제를 지원하기 위한 완화적인 통화 및 재정 정책이 수요 풀 인플레이션을 촉발합니다. 표준 화폐제도가 폐지됩니다. 이로 인해 인플레이션은 더욱 심해집니다. 두 차례의 석유 위기는 부족, 경제 침체 및 비용 밀어올림 인플레이션(일명 "스태그플레이션")을 이끌었습니다. 금리 급등, 주가는 하락했습니다.
 
 Stage 2. Early 1980s to early 1990s: 금융화.
-```
+
 
 <div class="content-ad"></div>
 

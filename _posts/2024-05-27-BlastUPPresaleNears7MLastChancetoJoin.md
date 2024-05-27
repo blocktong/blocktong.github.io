@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/blastup-presale-nears-7m-last-chance-to-join.
 ---
 
 
-```markdown
+
 ![BlastUP Presale Nears $7M; Last Chance to Join](/assets/img/2024-05-27-BlastUPPresaleNears7MLastChancetoJoin_thumbnail.png)
 
 # BlastUP Presale Nears $7M; Last Chance to Join
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/blastup-presale-nears-7m-last-chance-to-join.
 BlastUP, the premier launchpad on Blast, has confirmed its robust utility by successfully launching its first IDOs. As its presale nears completion, it continues to garner significant attention from crypto enthusiasts. The amount of funds raised so far is approaching 7 million, and BlastUP already boasts a large and passionate community of supporters.
 
 ## Early Triumphs Fuel BlastUP’s Presale Surge Toward $7 Million
-```
+
 
 <div class="content-ad"></div>
 

@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/ripple-garlinghouse-tether-samson-mow"
 ---
 
 
-```markdown
+
 ![리플 CEO 브래드 가링하우스가 테더에 대해 불확실성과 의심을 퍼뜨린다는 혐의를 받고 있습니다.](/assets/img/2024-05-27-RippletakingcheapshotsatTethersaysSamsonMow_thumbnail.png)
 
 ## 리플 CEO 브래드 가링하우스가 테더에 대해 불확실성과 의심을 퍼뜨린다는 혐의를 받고 있습니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/ripple-garlinghouse-tether-samson-mow"
 리플 CEO 브래드 가링하우스는 "미국 정부가 테더를 조사 중이다. 그것은 분명하다."라고 말한 후 테더에 대한 발언으로 상당한 비판을 받고 있습니다.
 
 가링하우스는 미래의 블랙스완 이벤트에 대한 가능성에 대해 이야기한 후 5월 10일 World Class 팻캐스트에서 발언했습니다.
-```
+
 
 <div class="content-ad"></div>
 

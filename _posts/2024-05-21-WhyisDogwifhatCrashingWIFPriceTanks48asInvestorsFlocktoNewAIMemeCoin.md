@@ -11,13 +11,13 @@ link: "https://cryptonews.com/news/why-is-dogwifhat-crashing-wif-price-tanks-48-
 ---
 
 
-```markdown
+
 ![Why is Dogwifhat Crashing? WIF Price Tanks 48% as Investors Flock to New AI Meme Coin](/assets/img/2024-05-21-WhyisDogwifhatCrashingWIFPriceTanks48asInvestorsFlocktoNewAIMemeCoin_thumbnail.png)
 
 In the wake of a 45% pullback from its March highs, investors are asking why the Dogwifhat (WIF) price is crashing, with some investors flocking to a fun new AI meme coin Wiener AI (WAI).
 
 The WIF price was last around $2.68, down sharply from its March record highs around $4.86.
-```
+
 
 <div class="content-ad"></div>
 

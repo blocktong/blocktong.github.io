@@ -11,15 +11,15 @@ link: "https://medium.com/iex-ec/why-you-still-lack-full-ownership-control-in-we
 ---
 
 
-```markdown
+
 ![Why You Still Lack Full Ownership Control in Web3.0](/assets/img/2024-05-16-WhyYouStillLackFullOwnershipControlinWeb3_0.png)
-```
+
 
 웹3는 종종, 인터넷의 미래로 묘사되며, 힘을 분산화하고 소수의 통제권을 많은 이들에게 이양한다는 새로운 패러다임이라고 설명됩니다. 이는 데이터 소유권을 민주화하고 디지털 아이덴티티에 대한 사용자의 지배력을 강화하는 것을 목표로 합니다. 그 기반이 탄탄할지라도, 아직 건물은 최상의 상태가 아닙니다!
 
 우리는 올바른 소유권 통제가 웹3에서 어려운 이유들을 자세히 살펴보고, iExec의 다가오는 개발자 도구가 어떻게 웹3 개발자들이 이를 극복하는 데 도움을 줄 수 있는지 알아보겠습니다.
 
-여기 웹3에서 아직 소유권을 완전히 확보하지 못한 이유 중 일부가 있습니다:```
+여기 웹3에서 아직 소유권을 완전히 확보하지 못한 이유 중 일부가 있습니다:
 
 <div class="content-ad"></div>
 

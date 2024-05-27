@@ -31,7 +31,7 @@ df['maCross']=df['MAshort']-df['MAlong']
 변동성필터=(df['vol_bb']<volmax)
 
 조건롱=  모멘텀필터 & 변동성필터
-```
+
 
 <div class="content-ad"></div>
 

@@ -11,10 +11,10 @@ link: "https://medium.com/@jayden_levitt/a-peculiar-billionaire-gave-a-dire-stoc
 ---
 
 
-```markdown
+
 ![image](/assets/img/2024-05-17-APeculiarBillionaireGaveaDireStockMarketPredictionYouCantIgnore_0.png)
 The world stops and stares with wide mouths every time Michael Burry makes a significant move. The renowned Investor and hedge fund manager is no stranger to adversity after losing his left eye to a rare form of cancer at age two. It`s odd to realize he was just 37 (my current age) during the 2008 housing crisis, which catapulted him into the spotlight and made investors in his firm Scion Asset Management $725 million.
-```
+
 
 <div class="content-ad"></div>
 
@@ -136,7 +136,7 @@ Scion Asset Management 펀드는 S&P 500을 추종하는 "풋 옵션"에 8억 66
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-APeculiarBillionaireGaveaDireStockMarketPredictionYouCantIgnore_3.png)
 
 # 동의하는 사람도 있고요
@@ -144,7 +144,7 @@ Scion Asset Management 펀드는 S&P 500을 추종하는 "풋 옵션"에 8억 66
 저도 집중적으로 연구한 거시경제 전문가 Raoul Pal은 주식 시장이 이미 바닥을 친 것으로 믿고 있습니다.
 
 ISM을 포함한 그의 지표에 따르면 비즈니스 사이클이 회전할 것으로 예상되며, 그가 "우리는 바나나 지대에 도달할 것"이라고 부르는 시기는 선거 이후, 즉 2024년 Q4에 연말이후 어딘가에 도달할 것이라고 합니다.
-```  
+  
 
 <div class="content-ad"></div>
 

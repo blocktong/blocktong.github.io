@@ -49,7 +49,7 @@ ETH/BTC는 장기 하락 추세에 갇혀 있다. 비트코인이 더욱 강력�
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Ethereum Price Prediction](/assets/img/2024-05-18-EthereumPricePredictionasDailyTradingVolumeSurpasses135BillionAreWhalesAccumulatingETH_0.png)
 
 ## 이더리움 가격 예측 – ETH의 가격은 어디로 갈까요?
@@ -57,7 +57,7 @@ ETH/BTC는 장기 하락 추세에 갇혀 있다. 비트코인이 더욱 강력�
 이더리움 가격의 최근 하락은 단기적으로 곰들이 시장을 완전히 통제하고 있음을 시사합니다.
 
 먼저, ETH는 단기 이동평균선에서 강한 저항을 계속 발견하고 있습니다. 21일 이동평균선은 이번 주에 돌파하지 못한 주요 장애물이었습니다.
-```
+
 
 <div class="content-ad"></div>
 

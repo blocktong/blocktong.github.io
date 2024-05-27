@@ -176,7 +176,7 @@ function withdraw(uint boxId, uint amountToWithdraw)public{
 
 세마포어 프로토콜을 기반으로 한 Paybox 시스템은 암호화폐 분야에서 더 안전하고 비공개적인 거래를 위한 중요한 발전을 나타냅니다. 토네이도 캐시의 익명성 원칙을 Semaphore의 향상된 제어 및 사용자 정의 기능과 결합하여 자금을 관리하기 위한 독특하고 강력한 시스템을 만들었습니다.
 
-주요 포인트:```
+주요 포인트:
 
 <div class="content-ad"></div>
 

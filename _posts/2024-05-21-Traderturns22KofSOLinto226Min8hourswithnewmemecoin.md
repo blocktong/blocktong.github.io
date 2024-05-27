@@ -11,13 +11,13 @@ link: "https://cointelegraph.com/news/trader-turns-2-2k-sol-2-26m-8-hours-memeco
 ---
 
 
-```markdown
+
 ![Trader turns $2.275 of SOL into $2.26M in 8 hours with new memecoin](/assets/img/2024-05-21-Traderturns22KofSOLinto226Min8hourswithnewmemecoin_thumbnail.png)
 
 ## 한 교역자가 8시간 만에 솔라나 토큰 2,275달러를 2.26백만 달러의 이익으로 바꿨다고 전해졌습니다. 내부자 거래 의혹이 제기되었습니다.
 
 기계적인 트레이더가 13 솔라나(SOL) 토큰에 투자한 새롭게 출시된 메멘토큰 1DOL에 대해 약 993배 이익을 거둔 것으로 알려집니다. 이 내용은 Lookonchain이 5월 19일에 게시한 글에 따라 알려졌습니다.
-```
+
 
 <div class="content-ad"></div>
 

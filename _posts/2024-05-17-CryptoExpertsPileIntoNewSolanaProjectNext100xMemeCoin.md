@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/crypto-experts-pile-into-new-solana-project-n
 ---
 
 
-```markdown
+
 ![CryptoExpertsPileIntoNewSolanaProjectNext100xMemeCoin](/assets/img/2024-05-17-CryptoExpertsPileIntoNewSolanaProjectNext100xMemeCoin_thumbnail.png)
 
 # 크립토 전문가들이 새로운 솔라나 프로젝트를 쏟아내다 – 다음 100배 미미 코인?
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/crypto-experts-pile-into-new-solana-project-n
 다음 100배 미미 코인일까요? 일부는 그렇게 말합니다. 단 3주 만에, 솔라나의 올 미국식 시골아이 $SEAL은 전 세계 투자자들의 관심을 끌며 120만 달러 이상을 모으기 성공했습니다.
 
 그것은, 그가 얼마나 우스꽝스러운지 와닿음에도 불구하고, Sealana가 솔라나가 바이럴 미미 코인에 대한 기본 블록체인으로 이동하도록 돕는 새로운 미미 코인의 파도 선두주자에 있기 때문입니다.
-```
+
 
 <div class="content-ad"></div>
 

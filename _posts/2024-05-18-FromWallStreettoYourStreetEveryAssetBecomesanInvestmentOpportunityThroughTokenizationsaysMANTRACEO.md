@@ -11,11 +11,11 @@ link: "https://cryptonews.com/news/from-wall-street-to-your-street-every-asset-b
 ---
 
 
-```markdown
+
 ![From Wall Street to Your Street, Every Asset Becomes an Investment Opportunity Through Tokenization, says MANTRA CEO](/assets/img/2024-05-18-FromWallStreettoYourStreetEveryAssetBecomesanInvestmentOpportunityThroughTokenizationsaysMANTRACEO_thumbnail.png)
 
 블랙록이 자산 토큰화에 미치는 영향
-```
+
 
 <div class="content-ad"></div>
 

@@ -11,7 +11,7 @@ link: "https://cryptonews.com/news/will-dogecoin-hit-1-this-year-not-before-shib
 ---
 
 
-```markdown
+
 ![Thumbnail](/assets/img/2024-05-27-WillDogecoinHit1ThisYearNotBeforeShibaShootout10X_thumbnail.png)
 
 # 도지코인이 올해 $1에 도달할까요? 시바 샷아웃 10배 전에는 그렇지 않을 것입니다
@@ -19,7 +19,7 @@ link: "https://cryptonews.com/news/will-dogecoin-hit-1-this-year-not-before-shib
 도지코인이 $1에 이를 가능성에 대한 추측이 도는 가운데 다른 뮤지코인인 시바 샷아웃이 큰 화제를 모으고 있습니다. 도지코인이 $1에 이르는 길은 불확실하지만, 시바 샷아웃은 도지코인이 목표를 달성하기 전에 10배 성장할 것으로 여겨지며 많은 사람들이 기대하고 있습니다. 시바 샷아웃이 눈에 띄는 이유와 메타버스 시장 속에서 어떻게 차별화되는지 살펴보겠습니다.
 
 ## 도지코인의 $1을 향한 여정: 앞에 있는 어려움들
-```  
+  
 
 <div class="content-ad"></div>
 

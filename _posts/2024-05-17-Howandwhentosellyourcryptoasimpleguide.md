@@ -11,7 +11,7 @@ link: "https://cointelegraph.com/news/how-when-sell-your-crypto-simple-guide"
 ---
 
 
-```markdown
+
 ![How and When to Sell Your Crypto: A Simple Guide](/assets/img/2024-05-17-Howandwhentosellyourcryptoasimpleguide_thumbnail.png)
 
 ## 최신 코인텔레그래프 비디오에서는 몇 가지 간단한 단계를 사용하여 암호화폐에서 성공적인 탈출 전략을 설정하는 방법을 설명합니다.
@@ -19,7 +19,7 @@ link: "https://cointelegraph.com/news/how-when-sell-your-crypto-simple-guide"
 암호화폐 풍요로운 시장을 놓치는 것은 어렵지만, 더 나쁜 것은 수익을 올리기 전에 암호화폐 부의 급등을 지켜보고 망가지는 것입니다.
 
 지금 바로 코인텔레그래프 최신 영상에서 몇 가지 간단한 단계로 암호화폐 탈출 전략을 구축하는 방법을 설명합니다.
-```
+
 
 <div class="content-ad"></div>
 
