@@ -251,7 +251,7 @@ source ~/.bashrc
 ```
 
 Once you've completed these steps, let's verify that our installations were successful. Type the following code into the terminal and press Enter:
-```
+
 
 
 
@@ -405,7 +405,7 @@ After entering your password, press Ctrl+O. If you are using MacOS, remember to 
 ![2024-05-05-HowtorunaPufferFinanceTestnetNode_20](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_20.png)
 
 Type "password.txt" (without the quotation marks) and press Enter. This will display: 
-```
+
 
 
 
@@ -937,7 +937,7 @@ scp root@0.0.0.0:~/stakingdepositcli/staking_deposit-cli-fdab65d-linux-amd64/val
 
 ![How to Run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_64.png)
 
-여기까지 오셨으면, puffer coral cli 디렉토리에서 registration.json 파일을 다운로드해봅시다. 곧 필요해질 것이기 때문에 미리 다운로드 받아두는 것이 좋습니다. 다음 명령어를 실행하시면 됩니다:```
+여기까지 오셨으면, puffer coral cli 디렉토리에서 registration.json 파일을 다운로드해봅시다. 곧 필요해질 것이기 때문에 미리 다운로드 받아두는 것이 좋습니다. 다음 명령어를 실행하시면 됩니다:
 
 
 
@@ -958,7 +958,7 @@ scp root@0.0.0.0:~/puffer/coral/registration.json ~/Desktop
 
 이제 시스템에 입금 데이터 및 Registration .json 파일이 올바르게 저장되었습니다. 그러나 먼저 Holesky Launchpad에서 등록을 마무리해야 합니다. 지금까지 있던 페이지의 아래부분에 있는 "Continue"를 클릭하면 아래 페이지로 이동합니다:
 
-![How to Run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_65.png)```
+![How to Run a Puffer Finance Testnet Node](/assets/img/2024-05-05-HowtorunaPufferFinanceTestnetNode_65.png)
 
 
 

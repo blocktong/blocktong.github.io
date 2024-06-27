@@ -50,7 +50,7 @@ rust-nft-api/
 │   └── swagger-ui/
 ├── .env
 └── Cargo.toml
-```
+
 
 - contract/: NFT에 대한 Solidity 스마트 계약(MyNFT.sol)을 포함하며, NFT의 발행 및 전송 규칙을 정의합니다.
 - nft-images/: 각 NFT와 관련된 이미지 또는 자산을 저장하며, NFT 메타데이터에서 참조됩니다.

@@ -11,13 +11,13 @@ link: "https://cointelegraph.com/news/gamestop-memecoins-pumped-bored-crypto-tra
 ---
 
 
-```md
+
 ![이미지](/assets/img/2024-05-15-DegenspumpedGameStopmemecoinsbecausetheyre boredTraders_thumbnail.png)
 
 ## 암호화폐 트레이더들은 "희망의 조짐이라도 보이자마자" 비공식 게임스탑 메멘토코인에 몰려들고 있다고 몇몇 암호화폐 트레이더들이 전했습니다.
 
 암호화폐 트레이더 Daan Crypto Trades는 "사람들이 지루해서 희망의 신호를 잡으려 들고 있는 것 같습니다"라고 Cointelegraph에 밝혔습니다.
-```
+
 
 
 
